@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="164.004" height="164.104" viewBox="0 0 164.004 164.104">
+  <g id="Logo" transform="translate(-73.07 -68.416)">
+    <rect id="Rectangle_85" data-name="Rectangle 85" width="40.251" height="80.542" transform="translate(195.323 110.207)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Groupe_50" data-name="Groupe 50" transform="translate(205.969 159.354)">
+      <path id="Tracé_50" data-name="Tracé 50" d="M302.873,236.553c0-7.543,4.373-11.241,9.861-11.241s7.866,2.935,8.805,6.839l-4.52,1.321c-.7-2.5-1.761-4.2-4.314-4.2-3.287,0-5.048,2.788-5.048,7.278,0,4.578,1.819,7.455,5.107,7.455,2.554,0,3.815-1.614,4.578-4.579l4.49,1c-1.057,4.372-3.639,7.425-9.1,7.425C307.07,247.853,302.873,244.214,302.873,236.553Z" transform="translate(-302.873 -225.312)"/>
+    </g>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="2.918" cy="2.918" r="2.918" transform="translate(200.459 179.756)" fill="red" opacity="0.996" style="isolation: isolate"/>
+    <rect id="Rectangle_86" data-name="Rectangle 86" width="40.251" height="40.251" transform="translate(155.072 110.207)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Groupe_51" data-name="Groupe 51" transform="translate(166.818 119.473)">
+      <path id="Tracé_51" data-name="Tracé 51" d="M234.849,177.739V156.02h7.895c4.638,0,8.864,1.232,8.864,6.956,0,5.84-4.579,7.044-8.922,7.044H239.6v7.719Zm4.755-11.417h3.258c2.965,0,4.08-1.145,4.08-3.228,0-2.025-1.086-3.17-4.08-3.17H239.6Z" transform="translate(-234.849 -156.02)"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.918" cy="2.918" r="2.918" transform="translate(184.046 139.485)" fill="#ffed00" opacity="0.996" style="isolation: isolate"/>
+    <rect id="Rectangle_87" data-name="Rectangle 87" width="40.251" height="120.813" transform="translate(114.821 110.207)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Groupe_52" data-name="Groupe 52" transform="translate(124.982 199.95)">
+      <path id="Tracé_52" data-name="Tracé 52" d="M162.16,317.655l7.69-21.807H174.4l7.689,21.807h-4.843l-1.614-4.843h-7.4l-1.673,4.843Zm7.25-8.306h5.107l-2.495-7.4h-.058Z" transform="translate(-162.16 -295.848)"/>
+    </g>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.918" cy="2.918" r="2.918" transform="translate(144.1 195.865)" fill="blue" opacity="0.996" style="isolation: isolate"/>
+    <rect id="Rectangle_88" data-name="Rectangle 88" width="40.251" height="80.542" transform="translate(74.57 69.916)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="3"/>
+    <g id="Groupe_53" data-name="Groupe 53" transform="translate(85.215 78.771)">
+      <path id="Tracé_53" data-name="Tracé 53" d="M93.066,96.543C93.066,89,97.44,85.3,102.927,85.3s7.866,2.935,8.805,6.838l-4.52,1.321c-.7-2.495-1.761-4.2-4.314-4.2-3.287,0-5.048,2.788-5.048,7.279,0,4.578,1.819,7.454,5.107,7.454,2.553,0,3.815-1.614,4.578-4.578l4.49,1c-1.057,4.373-3.64,7.426-9.1,7.426C97.263,107.843,93.066,104.2,93.066,96.543Z" transform="translate(-93.066 -85.302)"/>
+    </g>
+    <circle id="Ellipse_10" data-name="Ellipse 10" cx="2.918" cy="2.918" r="2.918" transform="translate(79.725 75.052)" fill="lime" opacity="0.996" style="isolation: isolate"/>
+  </g>
+</svg>
