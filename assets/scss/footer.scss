@@ -14,11 +14,6 @@ footer{
     color: $color-nero;
 }
 
-.titre-footer{
-    font-family: Benton Sans-Bold;
-    font-size: 25px;
-}
-
 button {
     background-image: url("../../../assets/media/img/Desktop/Footer/Icones/Recherche.svg");
     background-repeat: no-repeat;
@@ -30,8 +25,48 @@ button {
 .millieu{
     display: flex;
     flex-wrap: wrap;
+    margin: 30px 0 130px 0;
 }
 
-.liste-mecene{
+.millieu ul, .millieu ul:active, .millieu ul:focus{
+    padding: 0;
+    margin: 0;
+}
+
+.millieu a{
+    color: $color-grey;
+    text-decoration: none;
+}
+
+.millieu a:hover{
+    color: $color-nero;
+}
+
+.millieu ul>li{
+    display: flex;
+}
+
+.liste-mecenes{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.liste-mecenes li {
+    display: inline-flex;
+}
+
+.reseaux{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 0 20px 0;
+}
+
+.reseaux li{
+    display: inline-flex;
+    padding-left: 45px;
+}
+
+.haut{
     display: flex;
 }

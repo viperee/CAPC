@@ -5,5 +5,6 @@
 <meta name="referrer" content="origin">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <link rel="icon" type="image/png" href="assets/media/img/favicon.png">
+<link rel="stylesheet" type="text/css" href="css/assets/scss/style.css">
 <link rel="stylesheet" type="text/css" href="css/assets/scss/responsive.css">
 <link rel="stylesheet" type="text/css" href="css/assets/scss/footer.css">

@@ -1,10 +1,10 @@
 <footer>
-    <div><!--HAUT-->
+    <div class="haut"><!--HAUT-->
         <div><!--LOGO-->
             <img src="assets/media/img/Desktop/Footer/Logo.svg" />
         </div>
-        <div><!--RSX SOCIAUX-->
-            <ul>
+        <div class="xLarge-12 large-12 medium-12 small-12 xSmall-12"><!--RSX SOCIAUX-->
+            <ul class="reseaux">
                 <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Facebook.svg" /></li>
                 <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Twitter.svg" /></li>
                 <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Instagram.svg" /></li>
@@ -46,7 +46,7 @@
         </div>
     </div>
     <hr>
-    <div><!--MECENES-->
+    <div class="xLarge-12 large-12 medium-12 small-12 xSmall-12"><!--MECENES-->
         <ul class="liste-mecenes">
             <li><img src="assets/media/img/Desktop/Footer/mecenes/mecene1.svg" /></li>
             <li><img src="assets/media/img/Desktop/Footer/mecenes/mecene2.svg" /></li>
