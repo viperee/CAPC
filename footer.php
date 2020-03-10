@@ -1,4 +1,4 @@
-<footer>
+<footer class="container">
     <div class="haut"><!--HAUT-->
         <div><!--LOGO-->
             <img src="assets/media/img/Desktop/Footer/Logo.svg" />

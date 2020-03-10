@@ -17,10 +17,6 @@
   font-family: Benton Sans-Bold;
   src: url("../fonts/BentonSans Bold.otf"); }
 
-footer {
-  background: #FFFFFF;
-  padding: 30px 100px; }
-
 .liens {
   color: #888888; }
 
@@ -28,7 +24,7 @@ footer {
   color: #262626; }
 
 button {
-  background-image: url("../../../assets/media/img/Desktop/Footer/Icones/Recherche.svg");
+  background-image: url("../media/img/Desktop/Footer/Icones/Recherche.svg");
   background-repeat: no-repeat;
   width: 35px;
   height: 35px;
