@@ -1,0 +1,4 @@
+# User-specific stuff
+.idea/**/**
+CAPC.iml
+.DS_Store
