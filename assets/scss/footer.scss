@@ -1,7 +1,9 @@
 @import "colors.scss";
+@import "font.scss";
 
 footer{
     background: $color-white;
+    padding: 30px 100px;
 }
 
 .liens{
@@ -25,3 +27,11 @@ button {
     border: none; 
 }
 
+.millieu{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.liste-mecene{
+    display: flex;
+}

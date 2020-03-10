@@ -1,8 +1,25 @@
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
+@font-face {
+  font-family: Benton Sans-Regular;
+  src: url("../fonts/BentonSans Regular.otf"); }
+
+@font-face {
+  font-family: Benton Sans-Medium;
+  src: url("../fonts/BentonSans Medium.otf"); }
+
+@font-face {
+  font-family: Benton Sans-Book;
+  src: url("../fonts/BentonSans Book.otf"); }
+
+@font-face {
+  font-family: Benton Sans-Bold;
+  src: url("../fonts/BentonSans Bold.otf"); }
+
 footer {
-  background: #FFFFFF; }
+  background: #FFFFFF;
+  padding: 30px 100px; }
 
 .liens {
   color: #888888; }
@@ -20,3 +37,10 @@ button {
   width: 35px;
   height: 35px;
   border: none; }
+
+.millieu {
+  display: flex;
+  flex-wrap: wrap; }
+
+.liste-mecene {
+  display: flex; }
