@@ -1,3 +1,4 @@
+@import "font.scss";
 @media only screen and (min-width: 1280px) {
     /* For wide screens: */
     .xLarge-1 {width: 8.33%;}
@@ -19,6 +20,108 @@
 
     nav ul {
         visibility: visible;
+    }
+
+    .titre-footer{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .titre-intro{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .lien-menu{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 46px;
+    }
+
+    H1{
+        font-family: Benton Sans-Bold;
+        font-size: 55px;
+        line-height: 59px;
+    }
+
+    H2{
+        font-family: Benton Sans-Bold;
+        font-size: 44px;
+        line-height: 59px;
+    }
+
+    H3{
+        font-family: Benton Sans-Bold;
+        font-size: 37px;
+        line-height: 39px;
+    }
+
+    H4{
+        font-family: Benton Sans-Bold;
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .bouton{
+        font-family: Benton Sans-Medium;
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .texte-reduit{
+        font-family: Benton Sans-Regular;
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .dates{
+        font-family: Benton Sans-Medium;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .artiste-pleine-page{
+        font-family: Benton Sans-Bold;
+        font-size: 80px;
+        line-height: 85px;
+    }
+
+    .legende-pleine-page{
+        font-family: Benton Sans-Medium;
+        font-size: 27px;
+        line-height: 42px;
+    }
+
+    .texte-pleine-page{
+        font-family: Benton Sans-Light;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .ancre{
+        font-family: Benton Sans-Bold;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .texte-labeur{
+        font-family: Benton Sans-Regular;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .legende{
+        font-family: Benton Sans-Regular;
+        font-size: 57px;
+        line-height: 66px;
+    }
+
+    .cat-periode{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 28px;
     }
 }
 
@@ -44,6 +147,108 @@
     nav ul {
         visibility: visible;
     }
+
+    .titre-footer{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .titre-intro{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .lien-menu{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 46px;
+    }
+
+    H1{
+        font-family: Benton Sans-Bold;
+        font-size: 55px;
+        line-height: 59px;
+    }
+
+    H2{
+        font-family: Benton Sans-Bold;
+        font-size: 44px;
+        line-height: 59px;
+    }
+
+    H3{
+        font-family: Benton Sans-Bold;
+        font-size: 37px;
+        line-height: 39px;
+    }
+
+    H4{
+        font-family: Benton Sans-Bold;
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .bouton{
+        font-family: Benton Sans-Medium;
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .texte-reduit{
+        font-family: Benton Sans-Regular;
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .dates{
+        font-family: Benton Sans-Medium;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .artiste-pleine-page{
+        font-family: Benton Sans-Bold;
+        font-size: 80px;
+        line-height: 85px;
+    }
+
+    .legende-pleine-page{
+        font-family: Benton Sans-Medium;
+        font-size: 27px;
+        line-height: 42px;
+    }
+
+    .texte-pleine-page{
+        font-family: Benton Sans-Light;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .ancre{
+        font-family: Benton Sans-Bold;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .texte-labeur{
+        font-family: Benton Sans-Regular;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .legende{
+        font-family: Benton Sans-Regular;
+        font-size: 57px;
+        line-height: 66px;
+    }
+
+    .cat-periode{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 28px;
+    }
 }
 
 @media only screen and (min-width: 520px) and (max-width: 979px) {
@@ -67,6 +272,108 @@
 
     nav ul {
         visibility: hidden;
+    }
+
+    .titre-footer{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 28px;
+    }
+
+    .titre-intro{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .lien-menu{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 46px;
+    }
+
+    H1{
+        font-family: Benton Sans-Bold;
+        font-size: 55px;
+        line-height: 59px;
+    }
+
+    H2{
+        font-family: Benton Sans-Bold;
+        font-size: 44px;
+        line-height: 59px;
+    }
+
+    H3{
+        font-family: Benton Sans-Bold;
+        font-size: 37px;
+        line-height: 39px;
+    }
+
+    H4{
+        font-family: Benton Sans-Bold;
+        font-size: 26px;
+        line-height: 28px;
+    }
+
+    .bouton{
+        font-family: Benton Sans-Medium;
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+    .texte-reduit{
+        font-family: Benton Sans-Regular;
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .dates{
+        font-family: Benton Sans-Medium;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .artiste-pleine-page{
+        font-family: Benton Sans-Bold;
+        font-size: 80px;
+        line-height: 85px;
+    }
+
+    .legende-pleine-page{
+        font-family: Benton Sans-Medium;
+        font-size: 27px;
+        line-height: 42px;
+    }
+
+    .texte-pleine-page{
+        font-family: Benton Sans-Light;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .ancre{
+        font-family: Benton Sans-Bold;
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .texte-labeur{
+        font-family: Benton Sans-Regular;
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .legende{
+        font-family: Benton Sans-Regular;
+        font-size: 57px;
+        line-height: 66px;
+    }
+
+    .cat-periode{
+        font-family: Benton Sans-Regular;
+        font-size: 24px;
+        line-height: 28px;
     }
 
     footer div:nth-child(2) .footerUl {
@@ -97,32 +404,106 @@
         visibility: hidden;
     }
 
-    footer div:nth-child(2) .footerUl {
-        border: none!important;
-    }
-}
-
-@media only screen and (max-width: 259px) {
-    /* For watch: */
-    .xSmall-1 {width: 8.33%;}
-    .xSmall-2 {width: 16.66%;}
-    .xSmall-3 {width: 25%;}
-    .xSmall-4 {width: 33.33%;}
-    .xSmall-5 {width: 41.66%;}
-    .xSmall-6 {width: 50%;}
-    .xSmall-7 {width: 58.33%;}
-    .xSmall-8 {width: 66.66%;}
-    .xSmall-9 {width: 75%;}
-    .xSmall-10 {width: 83.33%;}
-    .xSmall-11 {width: 91.66%;}
-    .xSmall-12 {width: 100%;}
-
-    #burger {
-        display: flex;
+    .titre-footer{
+        font-family: Benton Sans-Bold;
+        font-size: 20px;
+        line-height: 28px;
     }
 
-    nav ul {
-        visibility: hidden;
+    .titre-intro{
+        font-family: Benton Sans-Regular;
+        font-size: 20px;
+        line-height: 24px;
+    }
+
+    .lien-menu{
+        font-family: Benton Sans-Bold;
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    H1{
+        font-family: Benton Sans-Bold;
+        font-size: 25px;
+        line-height: 26px;
+    }
+
+    H2{
+        font-family: Benton Sans-Medium;
+        font-size: 25px;
+        line-height: 26px;
+    }
+
+    H3{
+        font-family: Benton Sans-Bold;
+        font-size: 23px;
+        line-height: 22px;
+    }
+
+    H4{
+        font-family: Benton Sans-Bold;
+        font-size: 17px;
+        line-height: 28px;
+    }
+
+    .bouton{
+        font-family: Benton Sans-Medium;
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .texte-reduit{
+        font-family: Benton Sans-Regular;
+        font-size: 13px;
+        line-height: 13px;
+    }
+
+    .dates{
+        font-family: Benton Sans-Medium;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .artiste-pleine-page{
+        font-family: Benton Sans-Bold;
+        font-size: 30px;
+        line-height: 31px;
+    }
+
+    .legende-pleine-page{
+        font-family: Benton Sans-Medium;
+        font-size: 21px;
+        line-height: 33px;
+    }
+
+    .texte-pleine-page{
+        font-family: Benton Sans-Book;
+        font-size: 15px;
+        line-height: 24px;
+    }
+
+    .ancre{
+        font-family: Benton Sans-Bold;
+        font-size: 9px;
+        line-height: 11px;
+    }
+
+    .texte-labeur{
+        font-family: Benton Sans-Regular;
+        font-size: 13px;
+        line-height: 22px;
+    }
+
+    .legende{
+        font-family: Benton Sans-Regular;
+        font-size: 28px;
+        line-height: 39px;
+    }
+
+    .cat-periode{
+        font-family: Benton Sans-Regular;
+        font-size: 19px;
+        line-height: 22px;
     }
 
     footer div:nth-child(2) .footerUl {
