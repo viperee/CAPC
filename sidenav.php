@@ -19,4 +19,19 @@
             <button></button>
         </form>
     </div>
+    <div class="partage">
+        <div><!--RSX SOCIAUX-->
+            <ul class="reseaux-header">
+                <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Facebook.svg" /></li>
+                <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Twitter.svg" /></li>
+                <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Instagram.svg" /></li>
+            </ul>
+        </div>
+        <div class="francais"><!--LANGUE-->
+            <p class="langue titre-footer">FR+</p>
+        </div>
+    </div>
+    <div class="copyright-side titre-intro"><!--Copyright-->
+        <p>Designed by Victoria Pereira</p>
+    </div>
 </div>

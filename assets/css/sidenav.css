@@ -1,3 +1,6 @@
+/*--------------------------------------------------------------//
+//                          Couleur                            //
+//------------------------------------------------------------*/
 .close {
   padding-right: 105.16px;
   padding-top: 35.48px; }
@@ -8,6 +11,10 @@
 .sidenav a {
   color: #888888;
   text-decoration: none; }
+
+.sidenav form > button {
+  margin-left: 48%;
+  background-color: #FFFFFF; }
 
 .sidenav-liens {
   font-family: Benton Sans-Bold;
@@ -31,3 +38,32 @@
 
 .recherche {
   margin: 0 102px 80px 102px; }
+
+.reseaux-header {
+  display: flex;
+  padding: 0;
+  margin: 0; }
+
+.reseaux-header li {
+  padding: 0 20px 0 0; }
+
+.langue {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px 0 0 0; }
+
+.langue p {
+  display: inline-flex;
+  padding-left: 45px;
+  margin: 0; }
+
+.partage {
+  display: flex;
+  margin: 0 0 20px 102px; }
+
+.francais {
+  margin-left: 55%; }
+
+.copyright-side {
+  color: #888888;
+  margin-left: 102px; }

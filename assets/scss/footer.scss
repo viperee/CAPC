@@ -15,7 +15,11 @@ button {
     width: 30px;
     height: 30px;
     border: none; 
+}
+
+footer button {
     margin-left: 33%;
+    background-color: $color-white;
 }
 
 .millieu{
@@ -72,6 +76,7 @@ input#site-search{
     border:none;
     -webkit-text-fill-color: $color-nero;
     margin-bottom: 10px;
+    margin-top: 20px;
 }
 
 form {
