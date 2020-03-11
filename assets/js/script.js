@@ -1,0 +1,4 @@
+$().ready(() => {
+        console.log("READY");
+    }
+);

@@ -5,17 +5,6 @@
   background: #FFFFFF;
   padding: 30px 100px; }
 
-.sidenav {
-  height: 100%;
-  width: 0;
-  background-color: #FFFFFF;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  right: 0;
-  overflow-x: hidden;
-  transition: 0.5s; }
-
 .liens-menu-footer {
   font-family: Benton Sans-Bold;
   font-size: 25px; }
