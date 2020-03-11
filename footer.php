@@ -25,13 +25,13 @@
         </div>
         <div class="xLarge-3 large-3 medium-3 small-3"><!--HORAIRES-->
             <span class="titre-footer">Horaires d'ouverture</span>
-            <p>11 h – 18 h<br />
+            <p class="titre-intro">11 h – 18 h<br />
                 Fermeture tardive le 2e mercredi de chaque mois, jusqu’à 20 h<br />
                 Fermé les lundis et jours fériés</p>
         </div>
         <div class="xLarge-3 large-3 medium-3 small-3"><!--CONTACT-->
             <span class="titre-footer">Contact</span>
-            <p>7, rue Ferrère<br />
+            <p class="titre-intro">7, rue Ferrère<br />
                 33000 Bordeaux, France<br />
                 <br />
                 Tél. +33 (0)5 56 00 81 50<br />
@@ -40,7 +40,7 @@
         <div class="xLarge-3 large-3 medium-3 small-3"><!--RECHERCHE-->
             <form>
                 <label for="site-search" class="titre-footer">Recherche</label><br />
-                <input type="search" id="site-search" placeholder="Entrez un mot clé">
+                <input class="titre-intro" type="search" id="site-search" placeholder="Entrez un mot clé">
                 <button></button>
             </form>
         </div>
@@ -55,7 +55,7 @@
             <li><img src="assets/media/img/Desktop/Footer/mecenes/mecene5.svg" /></li>
         </ul>
     </div>
-    <div class="copyright"><!--Copyright-->
+    <div class="copyright titre-intro"><!--Copyright-->
         <p>Designed by Victoria Pereira</p>
     </div>
 </footer>

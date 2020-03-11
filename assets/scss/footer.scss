@@ -12,9 +12,10 @@
 button {
     background-image: url("../media/img/Desktop/Footer/Icones/Recherche.svg");
     background-repeat: no-repeat;
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     border: none; 
+    margin-left: 33%;
 }
 
 .millieu{
@@ -31,6 +32,7 @@ button {
 .millieu a{
     color: $color-grey;
     text-decoration: none;
+    margin-bottom: 10px;
 }
 
 .millieu a:hover{
@@ -64,4 +66,19 @@ button {
 
 .haut{
     display: flex;
+}
+
+input#site-search{
+    border:none;
+    -webkit-text-fill-color: $color-nero;
+    margin-bottom: 10px;
+}
+
+form {
+    border-bottom: 4px solid $color-nero;
+}
+
+.copyright{
+    color: $color-grey;
+    margin-top: 63px;
 }

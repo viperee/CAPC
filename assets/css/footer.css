@@ -26,9 +26,10 @@
 button {
   background-image: url("../media/img/Desktop/Footer/Icones/Recherche.svg");
   background-repeat: no-repeat;
-  width: 35px;
-  height: 35px;
-  border: none; }
+  width: 30px;
+  height: 30px;
+  border: none;
+  margin-left: 33%; }
 
 .millieu {
   display: flex;
@@ -41,7 +42,8 @@ button {
 
 .millieu a {
   color: #888888;
-  text-decoration: none; }
+  text-decoration: none;
+  margin-bottom: 10px; }
 
 .millieu a:hover {
   color: #262626; }
@@ -68,3 +70,15 @@ button {
 
 .haut {
   display: flex; }
+
+input#site-search {
+  border: none;
+  -webkit-text-fill-color: #262626;
+  margin-bottom: 10px; }
+
+form {
+  border-bottom: 4px solid #262626; }
+
+.copyright {
+  color: #888888;
+  margin-top: 63px; }

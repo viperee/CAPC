@@ -12,10 +12,29 @@
 .sidenav-liens{
   font-family: Benton Sans-Bold;
   font-size: 40px;
+  margin-bottom: 116px;
+  margin-left: 102px;
 }
+
+.sidenav-liens ul{
+  padding: 0;
+}
+
+.sidenav-liens ul>li{
+  margin-bottom: 15px;
+}
+
+
 .sidenav-header {
   display: flex;
   align-items: start;
   justify-content: space-between;
-  padding-top: 25.25px;
+}
+
+.sidenav-header img{
+  padding: 25px 0 86px 102px;
+}
+
+.recherche {
+  margin: 0 102px 80px 102px;
 }
