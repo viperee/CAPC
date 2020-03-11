@@ -2,16 +2,16 @@
     <div class="xLarge-8 sidenav-transparent"></div>
     <div class="xLarge-4 sidenav-content">
         <div class="sidenav-header">
-            <img src="assets/media/img/Desktop/Header/Logo/Menu.svg">
-            <span id="close-sidenav-btn" class="close"><img src="assets/media/img/Desktop/Header/Icones/Close.svg"></span>
+            <span><img src="assets/media/img/Desktop/Header/Logo/Menu.svg"></span>
+            <span id="close-sidenav-btn"><img class="close" src="assets/media/img/Desktop/Header/Icones/Close.svg"></span>
         </div>
         <div class="sidenav-liens">
             <ul>
-                <li><a href="index.php">Accueil</a>
-                <li><a href="programmation.php">Programmation</a></li>
-                <li><a href="musee.php">Le musée</a></li>
-                <li><a href="collections.php">Collections</a></li>
-                <li><a href="infos-pratiques.php">Infos Pratiques</a></li>
+                <li><a class="sidenav-link-item-nero" href="index.php">Accueil</a>
+                <li><a class="sidenav-link-item-dark-pastel-green" href="programmation.php">Programmation</a></li>
+                <li><a class="sidenav-link-item-golden-tainoi" href="musee.php">Le musée</a></li>
+                <li><a class="sidenav-link-item-summer-sky" href="collections.php">Collections</a></li>
+                <li><a class="sidenav-link-item-cinnabar" href="infos-pratiques.php">Infos Pratiques</a></li>
             </ul>
         </div>
         <div class="recherche"><!--RECHERCHE-->

@@ -2,6 +2,9 @@
 //                          Couleur                            //
 //------------------------------------------------------------*/
 .close {
+  cursor: pointer; }
+
+#close-sidenav-btn {
   padding-right: 105.16px;
   padding-top: 35.48px; }
 
@@ -22,6 +25,69 @@
 .sidenav a {
   color: #888888;
   text-decoration: none; }
+
+.sidenav a:hover {
+  color: #262626; }
+
+.sidenav .sidenav-link-item-nero:hover::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #262626;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-right: 12px; }
+
+.sidenav .sidenav-link-item-dark-pastel-green:hover::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #00C64B;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-right: 12px; }
+
+.sidenav .sidenav-link-item-golden-tainoi:hover::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #F9C149;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-right: 12px; }
+
+.sidenav .sidenav-link-item-summer-sky:hover::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #30C4EE;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-right: 12px; }
+
+.sidenav .sidenav-link-item-cinnabar:hover::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #EF4B28;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-right: 12px; }
 
 .sidenav-transparent {
   background-color: rgba(38, 38, 38, 0.67); }
@@ -50,7 +116,7 @@
   align-items: start;
   justify-content: space-between; }
 
-.sidenav-header img {
+.sidenav-header span {
   padding: 25px 0 86px 102px; }
 
 .recherche {
