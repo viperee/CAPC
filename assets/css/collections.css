@@ -1,31 +1,6 @@
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
-#norwegian {
-  background: #30C4EE; }
-
-#french {
-  background: #F9C149; }
-
-#spanish {
-  background: #888888; }
-
-#hindi {
-  background: #FFFFFF; }
-
-#mandarin {
-  background: #30C4EE; }
-
-section > span {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 7vw;
-  font-family: sans-serif;
-  text-transform: uppercase;
-  color: #FFFFFF; }
-
 .texte-coll h1 {
   display: inline-block;
   margin-top: 149px;
@@ -64,3 +39,28 @@ img.grille {
 .pres {
   grid-column: 3 / 3;
   grid-row: 3 / 6; }
+
+/*body {
+    //background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color:#000;
+    margin: 0;
+    padding: 0;
+  }*/
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center; }

@@ -3,7 +3,6 @@
 <head>
     <!-- Link Swiper's CSS -->
     <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/index.css">
     <title>Collections</title>
     <link rel="stylesheet" href="assets/css/collections.css">
     <?php include("head.php"); ?>
@@ -40,6 +39,19 @@
                 <img class="pres" src="assets/media/img/collection-pres.svg" />
             </div>
         </div>
+        <!-- Swiper -->
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">Slide 1</div>
+                <div class="swiper-slide">Slide 2</div>
+                <div class="swiper-slide">Slide 3</div>
+                <div class="swiper-slide">Slide 4</div>
+                <div class="swiper-slide">Slide 5</div>
+                <div class="swiper-slide">Slide 6</div>
+            </div>
+            <!-- Add Pagination -->
+            <div class="swiper-pagination"></div>
+        </div>
         
     </main>
 
@@ -52,6 +64,17 @@
 
     <!-- Swiper JS -->
     <script src="assets/js/swiper.min.js"></script>
-    <script src="assets/js/index.js"></script>
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        direction: 'vertical',
+        slidesPerView: 1,
+        spaceBetween: 30,
+        mousewheel: true,
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true,
+        },
+    });
+  </script>
   </body>
 </html>
