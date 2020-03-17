@@ -3,11 +3,13 @@
 <head>
     <title>Infos Pratiques</title>
     <?php include("head.php"); ?>
+    <link rel="stylesheet" href="assets/css/infos-pratiques.css">
 </head>
 <body>
 <?php include("header.php"); ?>
 
-<main>
+<main class="wrapper">
+    <h1 class="">Informations pratiques</h1>
 </main>
 
 <?php include("footer.php"); ?>

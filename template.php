@@ -7,7 +7,7 @@
 <body>
 <?php include("header.php"); ?>
 
-<main>
+<main class="wrapper">
 </main>
 
 <?php include("footer.php"); ?>
