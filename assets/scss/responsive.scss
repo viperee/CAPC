@@ -1,4 +1,5 @@
 @import "font.scss";
+@import "colors.scss";
 @media only screen and (min-width: 1280px) {
     /* For wide screens: */
     .xLarge-1 {width: 8.33%;}
@@ -116,12 +117,15 @@
         font-family: Benton Sans-Regular;
         font-size: 57px;
         line-height: 66px;
+        text-transform: uppercase;
+        letter-spacing: -3px;
     }
 
     .cat-periode{
         font-family: Benton Sans-Regular;
         font-size: 24px;
         line-height: 28px;
+        color: $color-grey;
     }
 }
 
@@ -242,12 +246,15 @@
         font-family: Benton Sans-Regular;
         font-size: 57px;
         line-height: 66px;
+        text-transform: uppercase;
+        letter-spacing: -3px;
     }
 
     .cat-periode{
         font-family: Benton Sans-Regular;
         font-size: 24px;
         line-height: 28px;
+        color: $color-grey;
     }
 }
 
@@ -368,12 +375,15 @@
         font-family: Benton Sans-Regular;
         font-size: 57px;
         line-height: 66px;
+        text-transform: uppercase;
+        letter-spacing: -3px;
     }
 
     .cat-periode{
         font-family: Benton Sans-Regular;
         font-size: 24px;
         line-height: 28px;
+        color: $color-grey;
     }
 
     footer div:nth-child(2) .footerUl {
@@ -498,12 +508,15 @@
         font-family: Benton Sans-Regular;
         font-size: 28px;
         line-height: 39px;
+        text-transform: uppercase;
+        letter-spacing: -3px;
     }
 
     .cat-periode{
         font-family: Benton Sans-Regular;
         font-size: 19px;
         line-height: 22px;
+        color: $color-grey;
     }
 
     footer div:nth-child(2) .footerUl {

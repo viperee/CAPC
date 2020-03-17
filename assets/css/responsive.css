@@ -14,6 +14,9 @@
   font-family: Benton Sans-Bold;
   src: url("../fonts/BentonSans Bold.otf"); }
 
+/*--------------------------------------------------------------//
+//                          Couleur                            //
+//------------------------------------------------------------*/
 @media only screen and (min-width: 1280px) {
   /* For wide screens: */
   .xLarge-1 {
@@ -107,11 +110,14 @@
   .legende {
     font-family: Benton Sans-Regular;
     font-size: 57px;
-    line-height: 66px; }
+    line-height: 66px;
+    text-transform: uppercase;
+    letter-spacing: -3px; }
   .cat-periode {
     font-family: Benton Sans-Regular;
     font-size: 24px;
-    line-height: 28px; } }
+    line-height: 28px;
+    color: #888888; } }
 
 @media only screen and (min-width: 980px) and (max-width: 1279px) {
   /* For desktop: */
@@ -206,11 +212,14 @@
   .legende {
     font-family: Benton Sans-Regular;
     font-size: 57px;
-    line-height: 66px; }
+    line-height: 66px;
+    text-transform: uppercase;
+    letter-spacing: -3px; }
   .cat-periode {
     font-family: Benton Sans-Regular;
     font-size: 24px;
-    line-height: 28px; } }
+    line-height: 28px;
+    color: #888888; } }
 
 @media only screen and (min-width: 520px) and (max-width: 979px) {
   /* For tablets: */
@@ -305,11 +314,14 @@
   .legende {
     font-family: Benton Sans-Regular;
     font-size: 57px;
-    line-height: 66px; }
+    line-height: 66px;
+    text-transform: uppercase;
+    letter-spacing: -3px; }
   .cat-periode {
     font-family: Benton Sans-Regular;
     font-size: 24px;
-    line-height: 28px; }
+    line-height: 28px;
+    color: #888888; }
   footer div:nth-child(2) .footerUl {
     border: none !important; } }
 
@@ -406,10 +418,13 @@
   .legende {
     font-family: Benton Sans-Regular;
     font-size: 28px;
-    line-height: 39px; }
+    line-height: 39px;
+    text-transform: uppercase;
+    letter-spacing: -3px; }
   .cat-periode {
     font-family: Benton Sans-Regular;
     font-size: 19px;
-    line-height: 22px; }
+    line-height: 22px;
+    color: #888888; }
   footer div:nth-child(2) .footerUl {
     border: none !important; } }
