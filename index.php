@@ -3,6 +3,7 @@
 <head>
     <!-- Link Swiper's CSS -->
     <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/index.css">
     <title>TITRE</title>
     <?php include("head.php"); ?>
 </head>
@@ -14,7 +15,7 @@
         <div class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="assets/media/img/Home2.svg"/><br />
+                    <img src="assets/media/img/Home2.svg" style="width: inherit;"/><br />
                     <div class="cat-legende">
                         <span class="cat-periode">Exposition</span><br />
                         <span class="legende">Histoire de l’art cherche personnages …</span><br />
@@ -22,7 +23,7 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/media/img/Home.svg"/><br />
+                    <img src="assets/media/img/Home.svg" style="width: inherit;"/><br />
                     <div class="cat-legende">
                         <span class="cat-periode">Visite</span><br />
                         <span class="legende">Visite Flash</span><br />
@@ -37,7 +38,7 @@
 
         <div id="collections">
             <img src="assets/media/img/grille-collections.svg" class="grille" />
-            <img src="assets/media/img/collections.svg" class="coll-img" />
+            <img src="assets/media/img/Collections.svg" class="coll-img" />
             <div class="card">
                 <div class="titre">
                     <H1>Collections</H1>
@@ -56,15 +57,7 @@
 
     <!-- Swiper JS -->
     <script src="assets/js/swiper.min.js"></script>
+    <script src="assets/js/index.js"></script>
 
-    <!-- Initialize Swiper -->
-    <script>
-    var swiper = new Swiper('.swiper-container', {
-        navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev'
-        },
-    });
-    </script>
 </body>
 </html>
