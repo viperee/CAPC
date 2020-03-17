@@ -36,9 +36,37 @@
             <div class="swiper-button-prev"></div>
         </div>
 
+        <div id="musee">
+            <img src="assets/media/img/grille-collections.svg" class="grille" />
+            <img src="assets/media/img/le-musee.svg" class="coll-img" />
+            <div class="card">
+                <div class="cat">
+                    <div class="titre">
+                        <H1>Le Musée</H1>
+                        <svg class="pastille-musee">
+                            <ellipse rx="5.8045854568481445" ry="5.8045854568481445" cx="5.8045854568481445" cy="5.8045854568481445">
+                            </ellipse>
+                        </svg>
+                    </div>
+                    <p class="titre-intro">
+                        Depuis sa fondation en 1973, le CAPC – originellement 
+                        Centre d’arts plastiques contemporains –, devenu en 
+                        1984 le musée d’art contemporain de la ville de 
+                        Bordeaux, et labellisé « Musée de France » en 2002, a 
+                        toujours été un espace exceptionnel pour la création.
+                    </p>
+                    <button class="carre">
+                        <div class="primaire"></div>
+                        <div class="texte-bouton bouton">Découvrir le musée</div>
+                    </button>
+
+                </div>
+            </div>
+		</div>
+
         <div id="collections">
             <img src="assets/media/img/grille-collections.svg" class="grille" />
-            <img src="assets/media/img/Collections.svg" class="coll-img" />
+            <img src="assets/media/img/collections.svg" class="coll-img" />
             <div class="card">
                 <div class="cat">
                     <div class="titre">
