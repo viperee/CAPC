@@ -96,13 +96,30 @@ img.grille {
   fill: #30C4EE; }
 
 .primaire {
+  background-image: url(../media/img/icons/fleche.svg);
+  background-repeat: no-repeat;
   width: 60px;
   height: 60px;
   border: 4px solid #30C4EE;
   float: left;
-  background: #FFFFFF; }
+  background-color: #FFFFFF;
+  background-position: center; }
 
 .primaire:hover {
-  border: 4px solid #FFFFFF;
-  background: #FFFFFF;
-  color: #FFFFFF; }
+  background-image: url(../media/img/icons/fleche-hover.svg);
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 60px;
+  border: 4px solid #30C4EE;
+  float: left;
+  background-color: #30C4EE;
+  background-position: center; }
+
+.carre {
+  width: 100%; }
+
+.texte-bouton {
+  text-align: left;
+  float: left;
+  margin: 16px 0 16px 20px;
+  color: #30C4EE; }

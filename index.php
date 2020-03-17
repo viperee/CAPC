@@ -51,7 +51,11 @@
                     <p class="titre-intro">
                         Dans l’histoire des expositions du CAPC, un grand nombre d’artistes ont réalisé des œuvres, sur place, pour le site et en particulier pour la nef de l’Entrepôt. 
                     </p>
-                    <button class="primaire"><img src="assets/media/img/icons/fleche.svg" /></button>
+                    <button class="carre">
+                        <div class="primaire"></div>
+                        <div class="texte-bouton bouton">Parcourir les collections</div>
+                    </button>
+
                 </div>
             </div>
 		</div>
