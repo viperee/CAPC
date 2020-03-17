@@ -9,16 +9,13 @@
     color: $color-nero;
 }
 
-button {
+.search {
     background-image: url("../media/img/Desktop/Footer/Icones/Recherche.svg");
     background-repeat: no-repeat;
     width: 30px;
     height: 30px;
     border: none; 
-}
-
-footer button {
-    margin-left: 33%;
+    margin-left: 31%;
     background-color: $color-white;
 }
 

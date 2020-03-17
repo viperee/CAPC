@@ -23,15 +23,13 @@
 .liens:hover {
   color: #262626; }
 
-button {
+.search {
   background-image: url("../media/img/Desktop/Footer/Icones/Recherche.svg");
   background-repeat: no-repeat;
   width: 30px;
   height: 30px;
-  border: none; }
-
-footer button {
-  margin-left: 33%;
+  border: none;
+  margin-left: 31%;
   background-color: #FFFFFF; }
 
 .millieu {

@@ -18,7 +18,7 @@
             <form>
                 <label for="site-search" class="titre-footer">Recherche</label><br/>
                 <input class="titre-intro" type="search" id="site-search" placeholder="Entrez un mot clé">
-                <button></button>
+                <button class="search"></button>
             </form>
         </div>
         <div class="partage">

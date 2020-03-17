@@ -4,7 +4,7 @@
     <!-- Link Swiper's CSS -->
     <link rel="stylesheet" href="assets/css/swiper.min.css">
     <link rel="stylesheet" href="assets/css/index.css">
-    <title>TITRE</title>
+    <title>Accueil</title>
     <?php include("head.php"); ?>
 </head>
 <body>
@@ -40,9 +40,18 @@
             <img src="assets/media/img/grille-collections.svg" class="grille" />
             <img src="assets/media/img/Collections.svg" class="coll-img" />
             <div class="card">
-                <div class="titre">
-                    <H1>Collections</H1>
-                    
+                <div class="cat">
+                    <div class="titre">
+                        <H1>Collections</H1>
+                        <svg class="pastille-collections">
+                            <ellipse rx="5.8045854568481445" ry="5.8045854568481445" cx="5.8045854568481445" cy="5.8045854568481445">
+                            </ellipse>
+                        </svg>
+                    </div>
+                    <p class="titre-intro">
+                        Dans l’histoire des expositions du CAPC, un grand nombre d’artistes ont réalisé des œuvres, sur place, pour le site et en particulier pour la nef de l’Entrepôt. 
+                    </p>
+                    <button class="primaire"><img src="assets/media/img/icons/fleche.svg" /></button>
                 </div>
             </div>
 		</div>
