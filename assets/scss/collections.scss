@@ -1,0 +1,76 @@
+@import "colors.scss";
+#norwegian {
+    background: $color-summer-sky;
+  }
+  #french {
+    background: $color-golden-tainoi;
+  }
+  #spanish {
+    background: $color-grey;
+  }
+  #hindi{
+    background: $color-white;
+  }
+  #mandarin {
+    background: $color-summer-sky;
+  }
+
+  section > span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7vw;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: $color-white;
+  }
+
+  .texte-coll h1{
+      display: inline-block;
+      margin-top: 149px;
+      margin-bottom: 95px;
+  }
+
+  .pastille-collections {
+    float: none;
+}
+
+.texte-coll p{
+    margin-bottom: 153px;
+}
+
+.secondaire img{
+    margin-left: 34px;
+}
+
+.secondaire {
+    margin-bottom: 22.5%;
+}
+
+.coll-en-ligne {
+    display: inline-block;
+}
+
+.texte-coll {
+    float: left;
+    width: 44%;
+}
+
+.image-coll {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
+
+img.grille {
+    grid-column: 3 / 4;
+    grid-row: 2 / 5;
+    margin-left: 65%;
+}
+
+.pres {
+    grid-column: 3 / 3;
+    grid-row: 3 / 6;
+}
