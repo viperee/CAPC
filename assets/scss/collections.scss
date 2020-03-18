@@ -67,7 +67,6 @@ body {
     height: 100%;
 }
 .swiper-slide {
-    text-align: center;
     font-size: 18px;
     background: #fff;
 
@@ -93,6 +92,7 @@ body {
 
 .swiper-container-vertical>.swiper-wrapper {
     margin: 0 134px;
+    width: auto;
 }
 
 .swiper-pagination-bullet {
@@ -100,7 +100,31 @@ body {
     height: 24px;
 }
 
-.swiper-container-vertical>.swiper-pagination-bullets {
+.swiper-container-vertical > .swiper-pagination-bullets {
     right: 10px;
-    top: 33%;
+    top: 1.1%;
+}
+
+.swiper-container-android .swiper-slide, .swiper-wrapper {
+    display: inline-block;
+}
+
+p.texte-pleine-page {
+    float: left;
+    margin-top: 76px;
+}
+
+.legende-pleine-page {
+    color: $color-summer-sky;
+    margin-top: 16px;
+}
+
+.pleine-page {
+    float: left;
+    width: 50%;
+    margin-top: 136px;
+}
+
+.image-pleine-page {
+    float: right;
 }

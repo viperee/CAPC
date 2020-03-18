@@ -72,7 +72,6 @@ body {
   height: 100%; }
 
 .swiper-slide {
-  text-align: center;
   font-size: 18px;
   background: #fff;
   /* Center slide text vertically */
@@ -94,7 +93,8 @@ body {
   font-family: Benton Sans-Medium; }
 
 .swiper-container-vertical > .swiper-wrapper {
-  margin: 0 134px; }
+  margin: 0 134px;
+  width: auto; }
 
 .swiper-pagination-bullet {
   width: 24px;
@@ -102,4 +102,23 @@ body {
 
 .swiper-container-vertical > .swiper-pagination-bullets {
   right: 10px;
-  top: 33%; }
+  top: 1.1%; }
+
+.swiper-container-android .swiper-slide, .swiper-wrapper {
+  display: inline-block; }
+
+p.texte-pleine-page {
+  float: left;
+  margin-top: 76px; }
+
+.legende-pleine-page {
+  color: #30C4EE;
+  margin-top: 16px; }
+
+.pleine-page {
+  float: left;
+  width: 50%;
+  margin-top: 136px; }
+
+.image-pleine-page {
+  float: right; }
