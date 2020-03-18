@@ -1,15 +1,4 @@
 @import "colors.scss";
-
-.container{
-    background: $color-white;
-    padding: 30px 134px;
-}
-
-.wrapper {
-    margin-right: 134px; /* 1 */
-    margin-left:  134px; /* 1 */
-}
-
 :root {
     --swiper-theme-color: $color-nero;
 }
@@ -180,14 +169,6 @@ img.grille {
 .cat p{
     float: right;
     margin-top: 38px;
-}
-
-.pastille-collections{
-    float: left;
-    margin: 39px 0 0 12px;
-    width: 12px;
-    height: 12px;
-    fill: $color-summer-sky;
 }
 
 .primaire {

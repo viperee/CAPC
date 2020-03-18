@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
 <head>
+    <title>Collections</title>
+    <?php include("head.php"); ?>
     <!-- Link Swiper's CSS -->
     <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <title>Collections</title>
     <link rel="stylesheet" href="assets/css/collections.css">
-    <?php include("head.php"); ?>
 </head>
 <body>
     <?php include("header.php"); ?>
@@ -39,10 +39,15 @@
                 <img class="pres" src="assets/media/img/collection-pres.svg" />
             </div>
         </div>
+
+
         <!-- Swiper -->
         <div class="swiper-container">
             <div class="swiper-wrapper">
-                <div class="swiper-slide">Slide 1</div>
+                <div class="swiper-slide">
+                    <h2>Les oeuvres in situ</h2>
+                    
+                </div>
                 <div class="swiper-slide">Slide 2</div>
                 <div class="swiper-slide">Slide 3</div>
                 <div class="swiper-slide">Slide 4</div>
