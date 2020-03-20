@@ -21,102 +21,87 @@
 		<svg class="Ligne_134" viewBox="0 0 1578 1">
 			<path fill="transparent" stroke="rgba(136,136,136,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" shape-rendering="auto" id="Ligne_134" d="M 0 0 L 1578 0">
 			</path>
-		</svg>
-		<svg class="pastille" style="left: 5.3%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 18.3%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 31.5%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 44.5%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 58%;">
-        <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-			<!--<ellipse rx="97" ry="97" cx="97" cy="97">
-			</ellipse>-->
-		</svg>
-		<svg class="pastille" style="left: 71.7%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 84.5%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<svg class="pastille" style="left: 95.5%;">
-			<ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
-			</ellipse>
-		</svg>
-		<div id="ID2019">
-			<span>2019</span>
-		</div>
-		<div id="ID2014___2018">
-			<span>2014 – 2018</span>
-		</div>
-		<div id="ID2006___2013">
-			<span>2006 – 2013</span>
-		</div>
-		<div id="ID2002___2006">
-			<span>2002 – 2006</span>
-		</div>
-		<div id="ID1996___2002_j">
-			<span>1996 – 2002</span>
-		</div>
-		<div id="ID1990___1996">
-			<span>1990 – 1996</span>
-		</div>
-		<div id="ID1984___1990">
-			<span>1984 - 1990</span>
-		</div>
-		<div id="ID1973___1984">
-			<span>1973 - 1984</span>
-		</div>
+        </svg>
+        <div>
+            <svg class="pastille" style="left: 5.3%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="1973" class="pastille-date" style="left: 2.7%;">
+                <span>1973 - 1984</span>
+            </div>
+        </div>
+        <div>
+            <svg class="pastille" style="left: 18.3%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="1984" class="pastille-date" style="left: 15.5%;">
+                <span>1984 - 1990</span>
+            </div>
+        </div>
+        <div>
+            <svg class="pastille" style="left: 31.5%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="1990" class="pastille-date" style="left: 28.5%;">
+                <span>1990 - 1996</span>
+            </div>
+        </div>
+        <div>
+            <svg class="pastille" style="left: 44.5%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="1996" class="pastille-date" style="left: 41.5%;">
+                <span>1996 - 2002</span>
+            </div>
+        </div>
+		<div>
+            <svg class="pastille" style="left: 58%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="2002" class="pastille-date" style="left: 54.8%;">
+                <span>2002 - 2006</span>
+            </div>
+        </div>
+        <div>
+            <svg class="pastille" style="left: 71.7%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="2006" class="pastille-date" style="left: 68.4%;">
+                <span>2006 - 2013</span>
+            </div>
+        </div>
+		<div>
+            <svg class="pastille" style="left: 84.5%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="2014" class="pastille-date" style="left: 81.5%;">
+                <span>2014 - 2018</span>
+            </div>
+        </div>
+        <div>
+            <svg class="pastille" style="left: 95.5%;">
+                <ellipse rx="8.5" ry="8.5" cx="8.5" cy="8.5">
+                </ellipse>
+            </svg>
+            <div data-description="2019" class="pastille-date" style="left: 94.5%;">
+                <span>2019</span>
+            </div>
+        </div>
 	</div>
-        <!--<div class="flex-parent">
-            <div class="input-flex-container">
-                <input type="radio" name="timeline-dot" data-description="1973">
-                <div class="dot-info" data-description="1973">
-                    <span class="year">1973 - 1984</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="1984">
-                <div class="dot-info" data-description="1984">
-                    <span class="year">1984 - 1990</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="1990" checked>
-                <div class="dot-info" data-description="1990">
-                    <span class="year">1990 – 1996</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="1996">
-                <div class="dot-info" data-description="1996">
-                    <span class="year">1996 – 2002</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="2002">
-                <div class="dot-info" data-description="2002">
-                    <span class="year">2002 – 2006</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="2006">
-                <div class="dot-info" data-description="2006">
-                    <span class="year">2006 – 2013</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="2014">
-                <div class="dot-info" data-description="2014">
-                    <span class="year">2014 – 2018</span>
-                </div>
-                <input type="radio" name="timeline-dot" data-description="2019">
-                <div class="dot-info" data-description="2019">
-                    <span class="year">2019</span>
-                </div>
+        <div class="flex-parent">
+        <img src="assets/media/img/musee/grille.svg" class="grille">
                 <div id="timeline-descriptions-wrapper">
-                    <p data-description="1973" class="texte-labeur">L’association CAPC créée par Jean-Louis Froment organise, en 1973, la première grande exposition collective d’art contemporain à Bordeaux, 
+                    <div data-description="1973">
+                        <img src="assets/media/img/musee/musee1.svg">
+                        <span class="dates">1973 - 1984</span>
+                        <p class="texte-labeur">L’association CAPC créée par Jean-Louis Froment organise, en 1973, la première grande exposition collective d’art contemporain à Bordeaux, 
                         Regarder ailleurs, dans le hall du Palais de la Bourse, avec des créations de Claude Viallat, Gina Pane, Jean Oth et Gérard Titus-Carmel. Dès l’année 
                         suivante, l’association commence à partager les espaces du rez-de-chaussée de l’Entrepôt Lainé avec un collectif d’associations culturelles locales 
                         œuvrant dans divers domaines et regroupées sous l’appellation de Groupe d’Utilisateurs du Lieu (GUL). La première exposition collective qui se 
@@ -134,7 +119,11 @@
                         conférences, débats, éditions, animations avec les enfants, etc. Autant d’initiatives qui favorisent la découverte de la création architecturale 
                         contemporaine à Bordeaux, dans la région et dans le monde, et qui ont su prendre en compte les transformations urbaines profondes qui se soit 
                         produites à Bordeaux et ailleurs.</p>
-                    <p data-description="1984" class="texte-labeur">
+                    </div>
+                    <div data-description="1984" >
+                        <img src="assets/media/img/musee/musee2.svg">
+                        <span class="dates">1984 - 1990</span>
+                        <p class="texte-labeur">
                         En 1984, le centre d’art, vite remarqué sur la scène internationale, devient, par volonté politique, le musée d’art contemporain de la Ville de Bordeaux.
                         Hormis le Centre Pompidou à Paris, peu de lieux en France sont alors dédiés exclusivement à l’art contemporain. Le premier fonds de la collection se constitue 
                         à partir de dépôts, de dons et de l’acquisition d’œuvres présentées dans les expositions. De nouvelles phases de travaux de rénovation, initiés dès l’achat du 
@@ -145,9 +134,12 @@
                         et des expositions monographiques d’artistes liés à certaines avant-gardes importantes des décennies précédentes : Antiform, Arte povera, Art conceptuel, Art minimal, 
                         Land Art. La programmation s'ouvre aussi à la nouvelle génération de peintres européens : Anselm Kiefer, Jean-Charles Blais, Richard Combas, Boisrond, Hervé Di Rosa, 
                         Enzo Cucchi, Miquel Barceló ou José María Sicilia, sans oublier, en 1985, la première exposition monographique de Keith Haring en Europe, qui réalise pour l’occasion, 
-                        et in situ, un ensemble d’œuvres originales, dont un wall painting encore visible en permanence depuis l’ascenseur du musée.
-                    </p>
-                    <p data-description="1990" class="texte-labeur">
+                        et in situ, un ensemble d’œuvres originales, dont un wall painting encore visible en permanence depuis l’ascenseur du musée.</p>
+                    </div>
+                    <div data-description="1990">
+                        <img src="assets/media/img/musee/musee1.svg">
+                        <span class="dates">1990 - 1996</span>
+                        <p class="texte-labeur">
                         En 1990, le CAPC musée d’art contemporain de Bordeaux rouvre après travaux. L‘imposante installation Threats of Hell de Richard Serra occupe l’espace monumental de la nef 
                         centrale. De la collection, sont présentés les ensembles les plus importants : Christian Boltanski, Daniel Buren, Gilbert & George, Jannis Kounellis, Sol LeWitt, Richard Long, 
                         Mario Merz. Un an plus tard, Daniel Buren magnifie à son tour l’architecture de l’Entrepôt dans une spectaculaire installation de miroirs intitulée Arguments topiques.<br />
@@ -161,9 +153,12 @@
                         <br />
                         Les années 1990 voient naître une nouvelle génération d’artistes, de commissaires d’expositions et de critiques dont le rapport aux images, à leur circulation et aux médias s’est 
                         profondément transformé. L’« esthétique relationnelle » devient ainsi l’expression majeure de la décennie. On en perçoit les enjeux dans les dispositifs de l’exposition collective Traffic, 
-                        conçue en 1996 par le commissaire d’exposition Nicolas Bourriaud, devenue depuis emblématique de son époque et d’un renouveau des pratiques curatoriales.
-                    </p>
-                    <p data-description="1996" class="texte-labeur">
+                        conçue en 1996 par le commissaire d’exposition Nicolas Bourriaud, devenue depuis emblématique de son époque et d’un renouveau des pratiques curatoriales.</p>
+                    </div>
+                    <div data-description="1996">
+                        <img src="assets/media/img/musee/musee2.svg">
+                        <span class="dates">1996 - 2002</span>
+                        <p class="texte-labeur">
                         Jean-Louis Froment quitte la direction du CAPC en 1996. Lui succède Henry-Claude Cousseau, nommé en même temps à la direction des musées de Bordeaux, et secondé, à la tête du CAPC, par Marie-Laure Bernadac.<br />
                         <br />
                         En 1998, Cities on the Move, proposée par Hou Hanru et Hans Ulrich Obrist, constitue la première collaboration du musée avec le centre d’architecture arc en rêve, et révèle l’émergence des artistes 
@@ -171,9 +166,12 @@
                         en France du travail de Cindy Sherman, sans oublier la proposition d’Anish Kapoor réalisée in situ pour la nef.<br />
                         <br />
                         Au début du nouveau millénaire, en parallèle avec les expositions monographiques de Sarkis (2000) ou de Jenny Holzer (OH, 2001), le CAPC invite à réfléchir autour de thèmes de société. En 2000, 
-                        pour l'exposition Présumés innocents, l’art contemporain et l’enfance, plusieurs générations d’artistes proposent leur point de vue sur le thème universel de l’enfance.<br />
-                    </p>
-                    <p data-description="2002" class="texte-labeur">
+                        pour l'exposition Présumés innocents, l’art contemporain et l’enfance, plusieurs générations d’artistes proposent leur point de vue sur le thème universel de l’enfance.</p>
+                    </div>
+                    <div data-description="2002">
+                        <img src="assets/media/img/musee/musee1.svg">
+                        <span class="dates">2002 - 2006</span>
+                        <p class="texte-labeur">
                         En 2002, Maurice Fréchuret succède à Henry-Claude Cousseau. Pour son premier commissariat, il revisite les racines de l’art contemporain et les origines du CAPC avec l’exposition Les années 70, 
                         l’art en cause qui rassemble des œuvres de plus de cent artistes ayant marqué cette décennie. En 2004, la nourriture, réflexe biologique ou acte culturel, est l’interrogation commune aux œuvres 
                         de la quarantaine d’artistes participant à Hors d’œuvre : ordre et désordres de la nourriture. Autre thématique sociétale abordée est celle du sommeil, en 2006, dans l’exposition Dormir, rêver… 
@@ -186,9 +184,12 @@
                         Maurice Fréchuret fait également découvrir ou redécouvrir les œuvres de la collection du CAPC à travers le prisme de points de vue scientifiques inédits, dans les expositions Dialogues : œuvres 
                         de la collection, où sont présents des artistes internationaux dont Haim Steinbach, Wim Delvoye, Richard Serra, José Maria Sicilia, Daniel Buren, Paul McCarthy et Peter Halley ; Collection Eté – 
                         Automne 2005, avec Maurizio Cattelan, Gilbert & George, Jenny Holzer, Tony Oursler, Jack Pierson, Wolfgang Tillmans et Lawrence Weiner ; et Collection Automne – Hiver 2005, avec des œuvres de Jannis 
-                        Kounellis, Mario Merz, Annette Messager, Toni Grand, Fischli & Weiss, Gilbert & George, On Kawara et Anish Kapoor, entre autres.
-                    </p>
-                    <p data-description="2006" class="texte-labeur">
+                        Kounellis, Mario Merz, Annette Messager, Toni Grand, Fischli & Weiss, Gilbert & George, On Kawara et Anish Kapoor, entre autres.</p>
+                    </div>
+                    <div data-description="2006">
+                        <img src="assets/media/img/musee/musee2.svg">
+                        <span class="dates">2006 - 2013</span>
+                        <p class="texte-labeur">
                         Charlotte Laubard sera la première femme à diriger le musée d’art contemporain de Bordeaux de 2006 à 2013. Au cours de ces années, elle s’attache à repositionner l'institution dans une nouvelle donne 
                         internationale et dans un contexte culturel étendu, élargi à la musique, l’architecture, le cinéma, la littérature, mais aussi les mass media et la culture populaire.<br />
                         <br />
@@ -201,11 +202,12 @@
                         <br />
                         En 2012 est organisée la première rétrospective en France consacrée à l’artiste luxembourgeois Michel Majerus. À cette occasion, le musée accueille une sélection conséquente d’installations et de 
                         peintures dans sa nef, dont la gigantesque rampe de skateboard If you are dead… so it is. En 2013, le théâtre mécanique de Markus Schinwald investit la nef du musée et la même année, cet espace 
-                        devient le lieu d’une réactivation de la spectaculaire installation d’Allan Kaprow, Yard, régulièrement réinventée depuis 1961. Enfin, SIGMA (2013-2014), coproduite avec les Archives de la Ville 
-                        de Bordeaux, est la première exposition d'envergure sur ce festival transdisciplinaire. La dernière grande monographie présentée sous la direction de Charlotte Laubard est une importante rétrospective 
-                        consacrée à l’artiste allemand Franz Erhard Walther intitulée Le corps décide.<br />
-                    </p>
-                    <p data-description="2014" class="texte-labeur">
+                        devient le lieu d’une réactivation de la spectaculaire installation d’Allan Kaprow, Yard, régulièrement réinventée depuis 1961.</p>
+                    </div>
+                    <div data-description="2014">
+                        <img src="assets/media/img/musee/musee1.svg">
+                        <span class="dates">2014 - 2018</span>
+                        <p class="texte-labeur">
                         En 2014, la commissaire d’exposition franco-colombienne María Inés Rodríguez reprend les rênes de l’institution. Elle présente, en 2015, dans la nef du musée la première rétrospective majeure 
                         consacrée à l'œuvre singulière et polysémique de l’artiste franco-chilien Alejandro Jodorowsky. Elle invitera ensuite à investir ce même espace Leonor Antunes, avec son projet monumental le plan 
                         flexible (2015-2016), recourant à deux de ses matériaux de prédilection, le liège et le laiton ; Rosa Barba, qui proposera un voyage quasi fantastique dans les couloirs de la mémoire audiovisuelle 
@@ -217,14 +219,12 @@
                         La saison culturelle de la ville, Paysages Bordeaux 2017, est l'occasion d'inviter le collectif curatorial Latitudes pour concevoir une grande exposition collective réunissant plus de 30 artistes, 
                         qui traite du rapport qu’entretiennent les œuvres d’art, les collections et les histoires culturelles avec les processus écologiques et la dimension géologique du temps, intitulée 4,543 milliards. 
                         La question de la  matière. Ce nouveau rendez-vous culturel estival offre également la possibilité de présenter trois œuvres monumentales de l'artiste britannique Richard Long, appartenant à la 
-                        collection du CAPC, à travers un parcours hors les murs.<br />
-                        <br />
-                        Dans le cadre de l’Année France-Colombie 2017, le CAPC propose au sein de la nef la première grande rétrospective en Europe de l’artiste colombienne Beatriz González, dont l’œuvre est marquée par 
-                        l’histoire de son pays. En 2018, le Bordelais Benoît Maire, dont le travail se situe au croisement de l’art et de la philosophie, présente Thèbes, importante exposition personnelle accompagnée de 
-                        la première publication monographique consacrée à son œuvre, et à l’automne de la même année, c’est l’artiste danois Danh Vo qui est invité à son tour à concevoir une monumentale installation in 
-                        situ pour la nef du musée.
-                    </p>
-                    <p data-description="2019" class="texte-labeur">
+                        collection du CAPC, à travers un parcours hors les murs.</p>
+                    </div>
+                    <div data-description="2019">
+                        <img src="assets/media/img/musee/musee2.svg">
+                        <span class="dates">2019</span>
+                        <p class="texte-labeur">
                         En septembre 2019, c'est Sandra Patron qui devient la nouvelle directrice du CAPC. Le programme d’expositions en cours a été conçu, pendant la période d'intérim, sous la direction artistique de 
                         la commissaire en chef de l'institution, Alice Motard. Il manifeste un désir de réhabiliter des pratiques qui échappent au langage et au discours, une volonté de souligner l’importance de l’exposition 
                         comme médium, en montrant des œuvres avec lesquelles il s’agira de passer du temps et dont il faudra faire l’expérience directe, ainsi que la conviction que l’art ne se résume pas à «montrer et dire» 
@@ -238,13 +238,11 @@
                         rassemblant 360 objets, dont une grande majorité de plantes et d’arbres, utilisés pour désigner chaque jour de l’année.<br />
                         <br />
                         Dans les galeries supérieures du CAPC, l’exposition collective Histoire de l’art cherche personnages…, imaginée en collaboration avec le musée de la Cité internationale de la bande dessinée et de l’image 
-                        (CIBDI) d’Angoulême et la Fondation Gandur pour l’Art, Genève, explore la notion de figuration à travers le prisme du contemporain. Enfin, toujours dans le cadre de la saison culturelle, le CAPC a proposé, 
-                        hors les murs, un parcours dans la ville – allant de l’Opéra au Jardin Botanique en passant par l’ancienne église Saint-Rémi – permettant de voir ou revoir quatre œuvres essentielles de Jean-Pierre Raynaud 
-                        appartenant à la collection du musée.
-                    </p>
+                        (CIBDI) d’Angoulême et la Fondation Gandur pour l’Art, Genève, explore la notion de figuration à travers le prisme du contemporain. </p>
+                    </div>
                 </div>
             </div>
-        </div>-->
+        </div>
 
     </main>
 
@@ -253,6 +251,7 @@
 
     <!--IMPORTS JS-->
     <?php include("script.php"); ?>
+    <script src="assets/js/musee.js"></script>
     <!--/IMPORTS JS-->
 
 </body>
