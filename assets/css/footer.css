@@ -43,14 +43,16 @@
 
 .millieu a {
   color: #888888;
-  text-decoration: none;
-  margin-bottom: 10px; }
+  text-decoration: none; }
 
 .millieu a:hover {
   color: #262626; }
 
 .millieu ul > li {
   display: flex; }
+
+footer p.titre-intro {
+  width: 66%; }
 
 .liste-mecenes {
   display: flex;

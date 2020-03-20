@@ -33,7 +33,6 @@
 .millieu a{
     color: $color-grey;
     text-decoration: none;
-    margin-bottom: 10px;
 }
 
 .millieu a:hover{
@@ -42,6 +41,10 @@
 
 .millieu ul>li{
     display: flex;
+}
+
+footer p.titre-intro {
+    width: 66%;
 }
 
 .liste-mecenes{

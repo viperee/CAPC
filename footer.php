@@ -13,7 +13,7 @@
     </div>
     <hr>
     <div class="millieu"><!--MILLIEU-->
-        <div class="xLarge-3 large-3 medium-3 small-3 liens-menu-footer"><!--LIENS-->
+        <div class="xLarge-3 large-3 medium-3 small-3 lien-menu"><!--LIENS-->
             <ul>
                 <li><a href="index.php">Accueil</a>
                 <li><a href="programmation.php">Programmation</a></li>
