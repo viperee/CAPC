@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
+<?php $page = 'index'; ?>
 <head>
 
     <title>Accueil</title>

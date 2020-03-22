@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
+<?php $page = 'musee'; ?>
 <head>
     <title>Le Musée</title>
     <?php include("head.php"); ?>

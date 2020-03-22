@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
+<?php $page = 'collections'; ?>
 <head>
     <title>Collections</title>
     <?php include("head.php"); ?>

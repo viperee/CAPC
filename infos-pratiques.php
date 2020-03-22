@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
+<?php $page = 'infos-pratiques'; ?>
 <head>
     <title>Infos Pratiques</title>
     <?php include("head.php"); ?>
@@ -101,6 +102,9 @@
                     <img data-level="2" src="assets/media/img/plan-niveau-3.svg">
                 </div>
             </div>
+        </div>
+        <div>
+            <h2>Accès</h2>
         </div>
     </div>
 </main>
