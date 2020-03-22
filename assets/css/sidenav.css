@@ -1,6 +1,36 @@
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
+.color-golden-tainoi {
+  color: #F9C149; }
+
+.color-cinnabar {
+  color: #EF4B28; }
+
+.color-dark-pastel-green {
+  color: #00C64B; }
+
+.color-summer-sky {
+  color: #30C4EE; }
+
+.color-snow {
+  color: #FBFBFB; }
+
+.color-white {
+  color: #FFFFFF; }
+
+.color-whisper {
+  color: #ECECEC; }
+
+.color-very-light-grey {
+  color: #CCCCCC; }
+
+.color-grey {
+  color: #888888; }
+
+.color-nero {
+  color: #262626; }
+
 .close {
   cursor: pointer; }
 

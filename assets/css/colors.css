@@ -30,36 +30,3 @@
 
 .color-nero {
   color: #262626; }
-
-.container {
-  background: #FFFFFF;
-  padding: 30px 134px; }
-
-.wrapper {
-  margin-right: 134px;
-  /* 1 */
-  margin-left: 134px;
-  /* 1 */ }
-
-.flex {
-  display: flex; }
-
-.flex-baseline {
-  align-items: baseline; }
-
-.flex-center {
-  align-items: center; }
-
-.pastille-collections {
-  float: left;
-  margin: 39px 0 0 12px;
-  width: 12px;
-  height: 12px;
-  fill: #30C4EE; }
-
-.pastille-musee {
-  float: none;
-  margin: 39px 0 0 12px;
-  width: 12px;
-  height: 12px;
-  fill: #F9C149; }

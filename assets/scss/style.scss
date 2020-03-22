@@ -9,6 +9,16 @@
     margin-left:  134px; /* 1 */
 }
 
+.flex{
+    display: flex;
+}
+.flex-baseline{
+    align-items: baseline;
+}
+.flex-center{
+    align-items: center;
+}
+
 .pastille-collections{
     float: left;
     margin: 39px 0 0 12px;

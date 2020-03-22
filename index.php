@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="fr-FR">
 <head>
-    <!-- Link Swiper's CSS -->
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/index.css">
+
     <title>Accueil</title>
     <?php include("head.php"); ?>
+    <link rel="stylesheet" href="assets/css/index.css">
 </head>
 <body>
     <?php include("header.php"); ?>
@@ -95,9 +94,6 @@
     <!--IMPORTS JS-->
     <?php include("script.php"); ?>
     <!--/IMPORTS JS-->
-
-    <!-- Swiper JS -->
-    <script src="assets/js/swiper.min.js"></script>
     <script src="assets/js/index.js"></script>
 
 </body>

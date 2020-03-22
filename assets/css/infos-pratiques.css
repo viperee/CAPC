@@ -1,3 +1,98 @@
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
+.color-golden-tainoi {
+  color: #F9C149; }
+
+.color-cinnabar {
+  color: #EF4B28; }
+
+.color-dark-pastel-green {
+  color: #00C64B; }
+
+.color-summer-sky {
+  color: #30C4EE; }
+
+.color-snow {
+  color: #FBFBFB; }
+
+.color-white {
+  color: #FFFFFF; }
+
+.color-whisper {
+  color: #ECECEC; }
+
+.color-very-light-grey {
+  color: #CCCCCC; }
+
+.color-grey {
+  color: #888888; }
+
+.color-nero {
+  color: #262626; }
+
+.card {
+  width: 644px;
+  height: 440px;
+  box-shadow: 0px 3px 6px #00000029;
+  margin-bottom: 1em; }
+
+.card-content {
+  margin: 52px; }
+
+.title-content {
+  text-transform: uppercase; }
+
+.level {
+  border-left: 4px solid #CCCCCC;
+  font-family: Benton Sans;
+  font-size: 23px; }
+
+.level-active {
+  border-left: 4px solid #EF4B28;
+  font-family: "Benton Sans-Bold";
+  font-size: 24px; }
+
+.level:hover {
+  border-left: 4px solid #EF4B28;
+  cursor: pointer; }
+
+.level-content {
+  margin-left: 37.5px;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 45px;
+  padding-bottom: 45px; }
+
+.active {
+  display: block; }
+
+.no-active {
+  display: none; }
+
+.dot-cinnabar-after:after {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #EF4B28;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  margin-left: 38px; }
+
+.swiper-button-next {
+  display: inline;
+  color: #EF4B28;
+  position: unset;
+  right: unset;
+  left: unset; }
+
+.swiper-button-prev {
+  display: inline;
+  color: #EF4B28;
+  position: unset;
+  right: unset;
+  left: unset;
+  margin-right: 39.8px; }

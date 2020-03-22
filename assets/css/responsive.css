@@ -17,6 +17,36 @@
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
+.color-golden-tainoi {
+  color: #F9C149; }
+
+.color-cinnabar {
+  color: #EF4B28; }
+
+.color-dark-pastel-green {
+  color: #00C64B; }
+
+.color-summer-sky {
+  color: #30C4EE; }
+
+.color-snow {
+  color: #FBFBFB; }
+
+.color-white {
+  color: #FFFFFF; }
+
+.color-whisper {
+  color: #ECECEC; }
+
+.color-very-light-grey {
+  color: #CCCCCC; }
+
+.color-grey {
+  color: #888888; }
+
+.color-nero {
+  color: #262626; }
+
 @media only screen and (min-width: 1280px) {
   /* For wide screens: */
   .xLarge-1 {
@@ -65,7 +95,7 @@
     font-size: 55px;
     line-height: 59px; }
   H2 {
-    font-family: Benton Sans-Bold;
+    font-family: Benton Sans-Medium;
     font-size: 44px;
     line-height: 59px; }
   H3 {

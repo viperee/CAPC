@@ -1,15 +1,55 @@
-
 /*--------------------------------------------------------------//
 //                          Couleur                            //
 //------------------------------------------------------------*/
 
-$color-golden-tainoi : #F9C149;
-$color-cinnabar : #EF4B28;
-$color-dark-pastel-green : #00C64B;
-$color-summer-sky : #30C4EE;
-$color-snow : #FBFBFB;
-$color-white : #FFFFFF;
-$color-whisper : #ECECEC;
-$color-very-light-grey : #CCCCCC;
-$color-grey : #888888;
-$color-nero : #262626;
+$color-golden-tainoi: #F9C149;
+$color-cinnabar: #EF4B28;
+$color-dark-pastel-green: #00C64B;
+$color-summer-sky: #30C4EE;
+$color-snow: #FBFBFB;
+$color-white: #FFFFFF;
+$color-whisper: #ECECEC;
+$color-very-light-grey: #CCCCCC;
+$color-grey: #888888;
+$color-nero: #262626;
+
+.color-golden-tainoi {
+  color: $color-golden-tainoi;
+}
+
+.color-cinnabar {
+  color: $color-cinnabar;
+}
+
+.color-dark-pastel-green {
+  color: $color-dark-pastel-green;
+}
+
+.color-summer-sky {
+  color: $color-summer-sky;
+}
+
+.color-snow {
+  color: $color-snow;
+}
+
+.color-white {
+  color: $color-white;
+}
+
+.color-whisper {
+  color: $color-whisper;
+
+}
+
+.color-very-light-grey {
+  color: $color-very-light-grey;
+}
+
+.color-grey {
+  color: $color-grey;
+}
+
+.color-nero {
+  color: $color-nero;
+}
