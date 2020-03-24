@@ -1,5 +1,6 @@
 @import "colors.scss";
 @import "font.scss";
+
 .texte-coll h1{
     display: inline-block;
     margin-top: 149px;
@@ -69,8 +70,6 @@ body {
 .swiper-slide {
     font-size: 18px;
     background: #fff;
-
-    /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
     display: -webkit-flex;

@@ -47,7 +47,7 @@
 .color-nero {
   color: #262626; }
 
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 1580px) {
   /* For wide screens: */
   .xLarge-1 {
     width: 8.33%; }
@@ -150,7 +150,7 @@
     line-height: 28px;
     color: #888888; } }
 
-@media only screen and (min-width: 980px) and (max-width: 1279px) {
+@media only screen and (min-width: 980px) and (max-width: 1579px) {
   /* For desktop: */
   .large-1 {
     width: 8.33%; }
@@ -186,16 +186,16 @@
     line-height: 28px; }
   .titre-intro {
     font-family: Benton Sans-Regular;
-    font-size: 24px;
+    font-size: 19px;
     line-height: 30px;
-    letter-spacing: -1px; }
+    letter-spacing: 1px; }
   .lien-menu {
     font-family: Benton Sans-Bold;
     font-size: 25px;
     line-height: 46px; }
   H1 {
     font-family: Benton Sans-Bold;
-    font-size: 55px;
+    font-size: 46px;
     line-height: 59px; }
   H2 {
     font-family: Benton Sans-Bold;

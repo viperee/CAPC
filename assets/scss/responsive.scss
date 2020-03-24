@@ -1,6 +1,6 @@
 @import "font.scss";
 @import "colors.scss";
-@media only screen and (min-width: 1280px) {
+@media only screen and (min-width: 1580px) {
     /* For wide screens: */
     .xLarge-1 {width: 8.33%;}
     .xLarge-2 {width: 16.66%;}
@@ -130,7 +130,7 @@
     }
 }
 
-@media only screen and (min-width: 980px) and (max-width: 1279px) {
+@media only screen and (min-width: 980px) and (max-width: 1579px) {
     /* For desktop: */
     .large-1 {width: 8.33%;}
     .large-2 {width: 16.66%;}
@@ -161,9 +161,9 @@
 
     .titre-intro{
         font-family: Benton Sans-Regular;
-        font-size: 24px;
+        font-size: 19px;
         line-height: 30px;
-        letter-spacing: -1px;
+        letter-spacing: 1px;
     }
 
     .lien-menu{
@@ -174,7 +174,7 @@
 
     H1{
         font-family: Benton Sans-Bold;
-        font-size: 55px;
+        font-size: 46px;
         line-height: 59px;
     }
 

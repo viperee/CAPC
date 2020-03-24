@@ -89,94 +89,7 @@
                         <img src="assets/media/img/christianboltanski.svg" />
                     </div>
                 </div>
-                <div class="swiper-slide">
-                    <h2>Les oeuvres in situ</h2>
-                    <div class="pleine-page">
-                        <span class="artiste-pleine-page">Christian Boltanski</span>
-                        <div class="legende-pleine-page">Pour mémoire, 1974</div>
-                        <p class="texte-pleine-page">
-                            En 2005, l’artiste choisit le CAPC comme dépositaire de documents et d’objets «lui 
-                            ayant appartenu ». S’agit-il ici d’objets personnels de l’artiste ? Nous sommes ici à 
-                            la fois dans la mythologie individuelle de l’artiste et dans son habituel principe 
-                            d’inventaire.<br />
-                            <br />
-                            Dans l’œuvre de Boltanski, traversée par les questions de mémoire et d’identité, les 
-                            individus perdus dans l’histoire collective continuent d’être présents grâce à un 
-                            nom, une modeste photo, quelques traces d’existence. Le lieu attribué à cette 
-                            œuvre est un petit local fermé, dont la porte est percée d’un fenestron dans la 
-                            volée de l’escalier nord-est de l’Entrepôt.
-                        </p>
-                    </div>
-                    <div class="image-pleine-page" >
-                        <img src="assets/media/img/christianboltanski.svg" />
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <h2>Les oeuvres in situ</h2>
-                    <div class="pleine-page">
-                        <span class="artiste-pleine-page">Christian Boltanski</span>
-                        <div class="legende-pleine-page">Pour mémoire, 1974</div>
-                        <p class="texte-pleine-page">
-                            En 2005, l’artiste choisit le CAPC comme dépositaire de documents et d’objets «lui 
-                            ayant appartenu ». S’agit-il ici d’objets personnels de l’artiste ? Nous sommes ici à 
-                            la fois dans la mythologie individuelle de l’artiste et dans son habituel principe 
-                            d’inventaire.<br />
-                            <br />
-                            Dans l’œuvre de Boltanski, traversée par les questions de mémoire et d’identité, les 
-                            individus perdus dans l’histoire collective continuent d’être présents grâce à un 
-                            nom, une modeste photo, quelques traces d’existence. Le lieu attribué à cette 
-                            œuvre est un petit local fermé, dont la porte est percée d’un fenestron dans la 
-                            volée de l’escalier nord-est de l’Entrepôt.
-                        </p>
-                    </div>
-                    <div class="image-pleine-page" >
-                        <img src="assets/media/img/christianboltanski.svg" />
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <h2>Les oeuvres in situ</h2>
-                    <div class="pleine-page">
-                        <span class="artiste-pleine-page">Christian Boltanski</span>
-                        <div class="legende-pleine-page">Pour mémoire, 1974</div>
-                        <p class="texte-pleine-page">
-                            En 2005, l’artiste choisit le CAPC comme dépositaire de documents et d’objets «lui 
-                            ayant appartenu ». S’agit-il ici d’objets personnels de l’artiste ? Nous sommes ici à 
-                            la fois dans la mythologie individuelle de l’artiste et dans son habituel principe 
-                            d’inventaire.<br />
-                            <br />
-                            Dans l’œuvre de Boltanski, traversée par les questions de mémoire et d’identité, les 
-                            individus perdus dans l’histoire collective continuent d’être présents grâce à un 
-                            nom, une modeste photo, quelques traces d’existence. Le lieu attribué à cette 
-                            œuvre est un petit local fermé, dont la porte est percée d’un fenestron dans la 
-                            volée de l’escalier nord-est de l’Entrepôt.
-                        </p>
-                    </div>
-                    <div class="image-pleine-page" >
-                        <img src="assets/media/img/christianboltanski.svg" />
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <h2>Les oeuvres in situ</h2>
-                    <div class="pleine-page">
-                        <span class="artiste-pleine-page">Christian Boltanski</span>
-                        <div class="legende-pleine-page">Pour mémoire, 1974</div>
-                        <p class="texte-pleine-page">
-                            En 2005, l’artiste choisit le CAPC comme dépositaire de documents et d’objets «lui 
-                            ayant appartenu ». S’agit-il ici d’objets personnels de l’artiste ? Nous sommes ici à 
-                            la fois dans la mythologie individuelle de l’artiste et dans son habituel principe 
-                            d’inventaire.<br />
-                            <br />
-                            Dans l’œuvre de Boltanski, traversée par les questions de mémoire et d’identité, les 
-                            individus perdus dans l’histoire collective continuent d’être présents grâce à un 
-                            nom, une modeste photo, quelques traces d’existence. Le lieu attribué à cette 
-                            œuvre est un petit local fermé, dont la porte est percée d’un fenestron dans la 
-                            volée de l’escalier nord-est de l’Entrepôt.
-                        </p>
-                    </div>
-                    <div class="image-pleine-page" >
-                        <img src="assets/media/img/christianboltanski.svg" />
-                    </div>
-                </div>
+                
             </div>
             <!-- Add Pagination -->
             <div class="swiper-pagination"></div>
@@ -191,18 +104,13 @@
     <?php include("script.php"); ?>
     <!--/IMPORTS JS-->
 
-    <!-- Swiper JS -->
-    <script src="assets/js/swiper.min.js"></script>
     <script>
     var swiper = new Swiper('.swiper-container', {
-        direction: 'vertical',
-        slidesPerView: 1,
-        spaceBetween: 30,
-        mousewheel: true,
-        pagination: {
-          el: '.swiper-pagination',
-          clickable: true,
-        },
+      direction: 'vertical',
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
     });
   </script>
   </body>
