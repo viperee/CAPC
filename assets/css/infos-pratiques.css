@@ -80,7 +80,7 @@
   display: inline-block;
   /* Needed to add space between the bullet and the text */
   font-size: 40px;
-  margin-left: 38px; }
+  vertical-align: sub; }
 
 .swiper-button-next {
   display: inline;
@@ -96,3 +96,27 @@
   right: unset;
   left: unset;
   margin-right: 39.8px; }
+
+.swiper-slide {
+  margin-right: 12%; }
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 20%;
+  position: relative;
+  height: 0; }
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute; }
+
+.infos-acces {
+  margin-right: 11.938rem; }
+  .infos-acces :last-child {
+    margin-right: 0; }
+  .infos-acces p {
+    font-family: Benton Sans-Regular;
+    font-size: 20px; }

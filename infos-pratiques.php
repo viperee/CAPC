@@ -105,6 +105,23 @@
         </div>
         <div>
             <h2>Accès</h2>
+            <div class="map-responsive">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.6879076696687!2d-0.5743516842482941!3d44.8482887823483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5527d81e072f85%3A0x21b210f33fe22835!2sCAPC%20Mus%C3%A9e%20d&#39;Art%20Contemporain%20de%20Bordeaux!5e0!3m2!1sfr!2sfr!4v1585407482035!5m2!1sfr!2sfr"
+                        width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            </div>
+            <div class="flex">
+                <div class="infos-acces">
+                    <div><h3>TRAM</h3></div>
+                    <div><p>Ligne B, arrêt CAPC<br>
+                            Ligne C, arrêt Jardin Public (depuis la gare)</p></div>
+                </div>
+                <div class="infos-acces">
+                    <div><h3>PARCS DE STATIONNEMENT</h3></div>
+                    <div><p>Quinconces (allées de Chartres)<br>
+                            Cité Mondiale (20 quai des Chartrons)<br>
+                            Jean Jaurès (place Jean-Jaurès et quai du Maréchal Lyautey)</p></div>
+                </div>
+            </div>
         </div>
     </div>
 </main>

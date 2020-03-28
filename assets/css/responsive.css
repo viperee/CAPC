@@ -97,7 +97,8 @@
   H2 {
     font-family: Benton Sans-Medium;
     font-size: 44px;
-    line-height: 59px; }
+    line-height: 59px;
+    font-weight: normal; }
   H3 {
     font-family: Benton Sans-Bold;
     font-size: 37px;
