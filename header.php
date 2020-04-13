@@ -6,6 +6,9 @@
             case "index":
                 echo "<img src=\"assets/media/img/Desktop/Header/Logo/accueil.svg\">";
                 break;
+            case "programmation":
+                echo "<img src=\"assets/media/img/Desktop/Header/Logo/programmation.svg\">";
+                break;
             case "collections":
                 echo "<img src=\"assets/media/img/Desktop/Header/Logo/collections.svg\">";
                 break;

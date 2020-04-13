@@ -12,13 +12,21 @@
 .flex{
     display: flex;
 }
+.flex-auto{
+    flex: auto;
+}
+.flex-space-between {
+    display: flex;
+    justify-content: space-between; }
 .flex-baseline{
     align-items: baseline;
 }
 .flex-center{
     align-items: center;
 }
-
+.inline-block{
+    display: inline-block;
+}
 .pastille-collections{
     float: left;
     margin: 39px 0 0 12px;
