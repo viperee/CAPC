@@ -9,6 +9,18 @@
   vertical-align: sub;
 }
 
+#caleandar {
+  .cld-main{
+    width: auto;
+    .cld-labels{
+      padding-bottom: 1rem;
+    }
+    .cld-day{
+      padding-bottom: 1rem;
+    }
+  }
+}
+
 .cld-rwd.cld-nav > svg {
   fill: $color-dark-pastel-green;
 }
@@ -28,7 +40,7 @@
 }
 
 .cld-number.eventday {
-  background: none !important;
+  background: red !important;
   border: none !important;
   color: black;
 }

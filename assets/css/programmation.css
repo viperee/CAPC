@@ -43,6 +43,13 @@
   font-size: 40px;
   vertical-align: sub; }
 
+#caleandar .cld-main {
+  width: auto; }
+  #caleandar .cld-main .cld-labels {
+    padding-bottom: 1rem; }
+  #caleandar .cld-main .cld-day {
+    padding-bottom: 1rem; }
+
 .cld-rwd.cld-nav > svg {
   fill: #00C64B; }
 
@@ -58,7 +65,7 @@
   color: white; }
 
 .cld-number.eventday {
-  background: none !important;
+  background: red !important;
   border: none !important;
   color: black; }
 
