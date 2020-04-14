@@ -149,8 +149,27 @@
 .sidenav-header span {
   padding: 25px 0 86px 102px; }
 
+#sidenav-site-search {
+  border: none;
+  margin-bottom: 10px;
+  width: 90%; }
+  #sidenav-site-search ::placeholder {
+    color: #262626; }
+
+.search-label {
+  margin-bottom: 1.438rem; }
+
 .recherche {
   margin: 0 102px 80px 102px; }
+  .recherche .search-icon {
+    float: right; }
+  .recherche .search-icon button {
+    background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: #FFFFFF; }
 
 .reseaux-header {
   display: flex;

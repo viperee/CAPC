@@ -16,9 +16,13 @@
         </div>
         <div class="recherche"><!--RECHERCHE-->
             <form>
-                <label for="site-search" class="titre-footer">Recherche</label><br/>
-                <input class="titre-intro" type="search" id="site-search" placeholder="Entrez un mot clé">
-                <button class="search"></button>
+                <div class="search-label">
+                    <label for="site-search" class="titre-footer">Recherche</label>
+                </div>
+                <div>
+                    <input class="titre-intro" type="search" id="sidenav-site-search" placeholder="Entrez un mot clé">
+                    <span class="search-icon"><button></button></span>
+                </div>
             </form>
         </div>
         <div class="partage">

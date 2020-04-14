@@ -1,7 +1,9 @@
 @import "colors.scss";
-.close{
+
+.close {
   cursor: pointer;
 }
+
 #close-sidenav-btn {
   padding-right: 105.16px;
   padding-top: 35.48px;
@@ -22,6 +24,7 @@
 .sidenav ul > li {
   display: flex;
 }
+
 .sidenav a {
   color: $color-grey;
   text-decoration: none;
@@ -32,7 +35,7 @@
 }
 
 .sidenav .sidenav-link-item-nero:hover::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-nero; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
@@ -41,7 +44,7 @@
 }
 
 .sidenav .sidenav-link-item-dark-pastel-green:hover::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-dark-pastel-green; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
@@ -50,7 +53,7 @@
 }
 
 .sidenav .sidenav-link-item-golden-tainoi:hover::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-golden-tainoi; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
@@ -59,7 +62,7 @@
 }
 
 .sidenav .sidenav-link-item-summer-sky:hover::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-summer-sky; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
@@ -68,7 +71,7 @@
 }
 
 .sidenav .sidenav-link-item-cinnabar:hover::before {
-  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-cinnabar; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
   display: inline-block; /* Needed to add space between the bullet and the text */
@@ -77,31 +80,32 @@
 }
 
 
-.sidenav-transparent{
+.sidenav-transparent {
   background-color: rgba($color-nero, 0.67);
 }
 
-.sidenav-content{
+.sidenav-content {
   background-color: $color-white;
 }
-.sidenav form>button {
+
+.sidenav form > button {
   margin-left: 35%;
   background-color: $color-white;
 }
 
 
-.sidenav-liens{
+.sidenav-liens {
   font-family: Benton Sans-Bold;
   font-size: 40px;
   margin-bottom: 116px;
   margin-left: 102px;
 }
 
-.sidenav-liens ul{
+.sidenav-liens ul {
   padding: 0;
 }
 
-.sidenav-liens ul>li{
+.sidenav-liens ul > li {
   margin-bottom: 15px;
 }
 
@@ -112,46 +116,71 @@
   justify-content: space-between;
 }
 
-.sidenav-header span{
+.sidenav-header span {
   padding: 25px 0 86px 102px;
 }
 
-.recherche {
-  margin: 0 102px 80px 102px;
+#sidenav-site-search {
+  border: none;
+  margin-bottom: 10px;
+  width: 90%;
+  ::placeholder{
+    color: $color-nero;
+  }
 }
 
-.reseaux-header{
+.search-label{
+  margin-bottom: 1.438rem;
+}
+.recherche {
+  margin: 0 102px 80px 102px;
+
+  .search-icon{
+    float: right;
+  }
+
+  .search-icon button {
+    background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    border: none;
+    background-color: $color-white;
+  }
+}
+
+.reseaux-header {
   display: flex;
   padding: 0;
   margin: 0;
 }
 
-.reseaux-header li{
+.reseaux-header li {
   padding: 0 20px 0 0;
 }
 
-.langue{
+.langue {
   display: flex;
   justify-content: flex-end;
   margin: 10px 0 0 0;
 }
 
-.langue p{
+.langue p {
   display: inline-flex;
   padding-left: 45px;
   margin: 0;
 }
 
-.partage{
+.partage {
   display: flex;
   margin: 0 102px 20px 102px;
 }
 
-.francais{
+.francais {
   margin-left: 55%;
 }
 
-.copyright-side{
+.copyright-side {
   color: $color-grey;
   margin-left: 102px;
 }
