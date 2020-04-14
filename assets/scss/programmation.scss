@@ -40,7 +40,6 @@
 }
 
 .cld-number.eventday {
-  background: red !important;
   border: none !important;
   color: black;
 }
@@ -49,22 +48,27 @@
   content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
   color: $color-dark-pastel-green; /* Change the color */
   font-weight: bold; /* If you want it to be bold */
-  display: inline-block; /* Needed to add space between the bullet and the text */
-  font-size: 8px;
+  display: block; /* Needed to add space between the bullet and the text */
+  font-size: 24px;
   vertical-align: sub;
 }
 
 .card-programmation {
   display: flex;
-  width: 51.25rem;
+  width: 54.25rem;
   box-shadow: 0px 3px 6px #00000029;
-  margin-bottom: 1.25rem;
+  margin-bottom: 2.25rem;
   .text-programmation {
     margin-right: 7.563rem;
   }
 
   .img-programmation {
     margin-right: 5.563rem;
+    img{
+      display: inherit;
+      width: 17.313rem;
+      height: 100%;
+    }
   }
 
   .inline-block {

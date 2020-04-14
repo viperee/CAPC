@@ -117,7 +117,10 @@
 }
 
 .sidenav-header span {
-  padding: 25px 0 86px 102px;
+  padding: 25px 0 35px 102px;
+  img{
+    width: 70%;
+  }
 }
 
 #sidenav-site-search {
@@ -183,4 +186,9 @@
 .copyright-side {
   color: $color-grey;
   margin-left: 102px;
+}
+
+.sidenav-footer{
+  position: fixed;
+  bottom: 0;
 }

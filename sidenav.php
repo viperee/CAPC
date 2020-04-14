@@ -2,7 +2,7 @@
     <div class="xLarge-8 sidenav-transparent"></div>
     <div class="xLarge-4 sidenav-content">
         <div class="sidenav-header">
-            <span><img src="assets/media/img/Desktop/Header/Logo/Menu.svg"></span>
+            <span><img src="assets/media/img/Desktop/Header/Logo/menu.svg"></span>
             <span id="close-sidenav-btn"><img class="close" src="assets/media/img/Desktop/Header/Icones/Close.svg"></span>
         </div>
         <div class="sidenav-liens">
@@ -25,20 +25,22 @@
                 </div>
             </form>
         </div>
-        <div class="partage">
-            <div><!--RSX SOCIAUX-->
-                <ul class="reseaux-header">
-                    <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Facebook.svg"/></li>
-                    <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Twitter.svg"/></li>
-                    <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Instagram.svg"/></li>
-                </ul>
+        <div class="sidenav-footer">
+            <div class="partage">
+                <div><!--RSX SOCIAUX-->
+                    <ul class="reseaux-header">
+                        <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Facebook.svg"/></li>
+                        <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Twitter.svg"/></li>
+                        <li><img src="assets/media/img/Desktop/Footer/Icones/reseaux_sociaux/Instagram.svg"/></li>
+                    </ul>
+                </div>
+                <div class="francais"><!--LANGUE-->
+                    <p class="langue titre-footer">FR+</p>
+                </div>
             </div>
-            <div class="francais"><!--LANGUE-->
-                <p class="langue titre-footer">FR+</p>
+            <div class="copyright-side titre-intro"><!--Copyright-->
+                <p>Designed by Victoria Pereira</p>
             </div>
-        </div>
-        <div class="copyright-side titre-intro"><!--Copyright-->
-            <p>Designed by Victoria Pereira</p>
         </div>
     </div>
 </div>

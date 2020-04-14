@@ -147,7 +147,9 @@
   justify-content: space-between; }
 
 .sidenav-header span {
-  padding: 25px 0 86px 102px; }
+  padding: 25px 0 35px 102px; }
+  .sidenav-header span img {
+    width: 70%; }
 
 #sidenav-site-search {
   border: none;
@@ -199,3 +201,7 @@
 .copyright-side {
   color: #888888;
   margin-left: 102px; }
+
+.sidenav-footer {
+  position: fixed;
+  bottom: 0; }
