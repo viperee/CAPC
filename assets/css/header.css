@@ -1,3 +1,6 @@
 .navbar {
   display: flex;
   justify-content: space-between; }
+
+#open-sidenav-btn {
+  cursor: pointer; }

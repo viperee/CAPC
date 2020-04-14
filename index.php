@@ -47,10 +47,10 @@
                         </svg>
                     </div>
                     <p class="titre-intro">
-                        Depuis sa fondation en 1973, le CAPC – originellement 
-                        Centre d’arts plastiques contemporains –, devenu en 
-                        1984 le musée d’art contemporain de la ville de 
-                        Bordeaux, et labellisé « Musée de France » en 2002, a 
+                        Depuis sa fondation en 1973, le CAPC – originellement
+                        Centre d’arts plastiques contemporains –, devenu en
+                        1984 le musée d’art contemporain de la ville de
+                        Bordeaux, et labellisé « Musée de France » en 2002, a
                         toujours été un espace exceptionnel pour la création.
                     </p>
                     <div class="carre">
@@ -62,25 +62,25 @@
 		</div>
 
         <div id="collections">
-            <img src="assets/media/img/grille-collections.svg" class="grille" />
-            <img src="assets/media/img/collections.svg" class="coll-img" />
-            <div class="card">
-                <div class="titre">
-                    <H1>Collections</H1>
-                    <svg class="pastille-collections">
-                        <ellipse rx="5.8045854568481445" ry="5.8045854568481445" cx="5.8045854568481445" cy="5.8045854568481445">
-                        </ellipse>
-                    </svg>
+            <div id="img-collections">
+                <div class="card">
+                    <div class="titre">
+                        <H1>Collections</H1>
+                        <svg class="pastille-collections">
+                            <ellipse rx="5.8045854568481445" ry="5.8045854568481445" cx="5.8045854568481445" cy="5.8045854568481445">
+                            </ellipse>
+                        </svg>
+                    </div>
+                    <p class="titre-intro">
+                        Dans l’histoire des expositions du CAPC, un grand nombre d’artistes ont réalisé des œuvres, sur place, pour le site et en particulier pour la nef de l’Entrepôt.
+                    </p>
+                    <div class="carre">
+                        <div class="primaire"></div>
+                        <div class="texte-bouton bouton">Parcourir les collections</div>
+                    </div>
                 </div>
-                <p class="titre-intro">
-                    Dans l’histoire des expositions du CAPC, un grand nombre d’artistes ont réalisé des œuvres, sur place, pour le site et en particulier pour la nef de l’Entrepôt. 
-                </p>
-                <button class="carre">
-                    <div class="primaire"></div>
-                    <div class="texte-bouton bouton">Parcourir les collections</div>
-                </button>
             </div>
-		</div>
+        </div>
     </main>
 
 
