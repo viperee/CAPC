@@ -99,14 +99,13 @@ body {
     height: 24px;
 }
 
-.swiper-container-vertical > .swiper-pagination-bullets {
-    right: 10px;
-    top: 1.1%;
-}
-
 .swiper-container-android .swiper-slide, .swiper-wrapper {
     display: inline-block;
 }
+span.swiper-pagination-bullet {
+    background-color: $color-summer-sky;
+}
+
 
 p.texte-pleine-page {
     float: left;
@@ -126,4 +125,12 @@ p.texte-pleine-page {
 
 .image-pleine-page {
     float: right;
+}
+
+.lien-collection {
+    color: $color-nero;
+    text-decoration: none;
+}
+.lien-collection:hover {
+    border-bottom: 3px solid $color-summer-sky;
 }
