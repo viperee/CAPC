@@ -31,13 +31,24 @@
 .color-nero {
   color: #262626; }
 
-.swiper-container {
+.main-header .swiper-container {
   width: 100%;
   height: 100%;
   margin-bottom: 180px; }
 
-.swiper-slide {
-  margin: 0; }
+.main-header .swiper-slide {
+  margin: 0;
+  flex-shrink: inherit; }
+
+.main-header .swiper-button-next {
+  top: 90%;
+  display: flex;
+  left: 92%; }
+
+.main-header .swiper-button-prev {
+  top: 90%;
+  display: flex;
+  left: 88%; }
 
 .cat-legende {
   /* Center slide text vertically */
@@ -54,19 +65,6 @@
   -webkit-align-items: center;
   align-items: center;
   margin: 25px 102px 25px 139px; }
-
-.swiper-button-next {
-  top: 90%;
-  display: flex;
-  left: 92%; }
-
-.swiper-button-prev {
-  top: 90%;
-  display: flex;
-  left: 88%; }
-
-.swiper-slide {
-  flex-shrink: inherit; }
 
 #musee {
   display: flex;
@@ -209,11 +207,14 @@
   position: absolute; }
 
 .card {
-  width: 44%;
+  width: 89%;
   box-shadow: 0px 3px 6px #00000029;
   margin-bottom: 1em;
   z-index: 10;
   background-color: white; }
+
+.programmation-block .card:hover {
+  border: 8px solid #00C64B; }
 
 .arrow {
   background-image: url(../media/img/icons/fleche-orange.svg);
@@ -244,3 +245,35 @@
 
 .infos-pratiques-block {
   margin-bottom: 10%; }
+
+.infos-pratiques-block .card {
+  width: 44%; }
+
+.programmation-block {
+  margin-bottom: 12.938rem; }
+
+.programmation-block .swiper-button-next {
+  display: inline;
+  color: #00C64B;
+  position: unset;
+  right: unset;
+  left: unset; }
+
+.programmation-block .swiper-button-prev {
+  display: inline;
+  color: #00C64B;
+  position: unset;
+  right: unset;
+  left: unset;
+  margin-right: 39.8px; }
+
+.fleche-verte {
+  vertical-align: sub;
+  float: right; }
+
+.text-programmation {
+  padding-bottom: 1em; }
+
+.inline-block .titre-intro {
+  margin: 0;
+  color: #888888; }

@@ -12,7 +12,7 @@
 
 <main class="wrapper">
     <!-- Swiper -->
-    <div class="swiper-container">
+    <div class="main-header swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <img src="assets/media/img/Home2.svg" style="width: inherit;"/><br/>
@@ -71,8 +71,62 @@
 
     </div>
 
-    <div>
-        <h1 class="dot-dark-pastel-green-after">Programmation</h1>
+    <div class="programmation-block">
+        <div class="flex flex-baseline">
+            <div class="xLarge-11">
+                <h1 class="dot-dark-pastel-green-after">Programmation</h1>
+            </div>
+            <div class="xLarge-1">
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div>
+        </div>
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="inline-block text-programmation">
+                                <p class="titre-intro">02 fevr. 2020 - 15h</p>
+                                <h3>Gouter Signature</h3>
+                                <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
+                                    collaboration…</p>
+                                <p class="titre-intro no-margin inline-block">Rencontre</p>
+                                <a href="programmation.php"><img class="fleche-verte" src="assets/media/img/icons/fleche-verte.svg"/></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="inline-block text-programmation">
+                                <p class="titre-intro">02 fevr. 2020 - 15h</p>
+                                <h3>Gouter Signature</h3>
+                                <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
+                                    collaboration…</p>
+                                <p class="titre-intro no-margin inline-block">Rencontre</p>
+                                <a href="programmation.php"><img class="fleche-verte" src="assets/media/img/icons/fleche-verte.svg"/></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="inline-block text-programmation">
+                                <p class="titre-intro">02 fevr. 2020 - 15h</p>
+                                <h3>Gouter Signature</h3>
+                                <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
+                                    collaboration…</p>
+                                <p class="titre-intro no-margin inline-block">Rencontre</p>
+                                <a href="programmation.php"><img class="fleche-verte" src="assets/media/img/icons/fleche-verte.svg"/></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div id="musee">
