@@ -31,18 +31,6 @@
 .color-nero {
   color: #262626; }
 
-.dot-dark-pastel-green-after:after {
-  content: "\2022";
-  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #00C64B;
-  /* Change the color */
-  font-weight: bold;
-  /* If you want it to be bold */
-  display: inline-block;
-  /* Needed to add space between the bullet and the text */
-  font-size: 40px;
-  vertical-align: sub; }
-
 #caleandar .cld-main {
   width: auto; }
   #caleandar .cld-main .cld-labels {

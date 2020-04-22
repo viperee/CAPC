@@ -73,3 +73,31 @@
   width: 12px;
   height: 12px;
   fill: #F9C149; }
+
+.dot-cinnabar-after:after {
+  content: "\2022";
+  color: #EF4B28;
+  font-weight: bold;
+  display: inline-block;
+  font-size: 40px;
+  vertical-align: sub;
+  margin-left: 1.875rem; }
+
+.dot-dark-pastel-green-after:after {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #00C64B;
+  /* Change the color */
+  font-weight: bold;
+  /* If you want it to be bold */
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  font-size: 40px;
+  vertical-align: sub;
+  margin-left: 1.875rem; }
+
+.title-content {
+  text-transform: uppercase; }
+
+.no-margin {
+  margin: 0; }

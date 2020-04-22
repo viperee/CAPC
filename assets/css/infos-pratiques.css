@@ -70,18 +70,6 @@
 .no-active {
   display: none; }
 
-.dot-cinnabar-after:after {
-  content: "\2022";
-  /* Add content: \2022 is the CSS Code/unicode for a bullet */
-  color: #EF4B28;
-  /* Change the color */
-  font-weight: bold;
-  /* If you want it to be bold */
-  display: inline-block;
-  /* Needed to add space between the bullet and the text */
-  font-size: 40px;
-  vertical-align: sub; }
-
 .swiper-button-next {
   display: inline;
   color: #EF4B28;
