@@ -43,7 +43,7 @@
         <div class="card">
             <div class="card-content">
                 <div class="title-content">
-                    <h3 class="color-cinnabar">CAPC Musée d’Art Contemporain de Bordeaux</h3>
+                    <h3 class="color-cinnabar no-margin">CAPC Musée d’Art<br>Contemporain de Bordeaux</h3>
                 </div>
                 <div class="flex-space-between">
                     <div>
