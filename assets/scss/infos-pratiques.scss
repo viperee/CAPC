@@ -1,13 +1,15 @@
 @import "colors.scss";
 
 .card{
-  width: 644px;
-  height: 440px;
+  width: 112%;
+  height: 500px;
   box-shadow: 0px 3px 6px #00000029;
   margin-bottom: 1em;
 }
 .card-content {
-  margin: 52px;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
 }
 
 .level{
