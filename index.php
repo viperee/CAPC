@@ -73,10 +73,10 @@
 
     <div class="programmation-block">
         <div class="flex flex-baseline">
-            <div class="xLarge-11 large-11 medium-11">
+            <div class="xLarge-11 large-10 medium-10">
                 <h1 class="dot-dark-pastel-green-after">Programmation</h1>
             </div>
-            <div class="xLarge-1 large-1 medium-1">
+            <div class="xLarge-1 large-2 medium-2">
                 <div id="programmation-swiper-button-prev" class="swiper-button-prev"></div>
                 <div id="programmation-swiper-button-next" class="swiper-button-next"></div>
             </div>
