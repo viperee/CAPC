@@ -74,9 +74,11 @@ footer p.titre-intro {
 
 input#site-search{
     border:none;
-    -webkit-text-fill-color: $color-nero;
     margin-bottom: 10px;
     flex: auto;
+    ::placeholder{
+        color: $color-nero;
+    };
 }
 
 form {

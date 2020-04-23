@@ -126,7 +126,7 @@
 #sidenav-site-search {
   border: none;
   margin-bottom: 10px;
-  width: 90%;
+  flex: auto;
   ::placeholder{
     color: $color-nero;
   }

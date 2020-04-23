@@ -106,9 +106,10 @@ footer p.titre-intro {
 
 input#site-search {
   border: none;
-  -webkit-text-fill-color: #262626;
   margin-bottom: 10px;
   flex: auto; }
+  input#site-search ::placeholder {
+    color: #262626; }
 
 form {
   border-bottom: 4px solid #262626; }

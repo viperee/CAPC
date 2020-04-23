@@ -154,7 +154,7 @@
 #sidenav-site-search {
   border: none;
   margin-bottom: 10px;
-  width: 90%; }
+  flex: auto; }
   #sidenav-site-search ::placeholder {
     color: #262626; }
 

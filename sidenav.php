@@ -1,6 +1,6 @@
 <div id="sidenav" class="sidenav">
-    <div class="xLarge-8 sidenav-transparent"></div>
-    <div class="xLarge-4 sidenav-content">
+    <div class="xLarge-8 large-8 medium-8 sidenav-transparent"></div>
+    <div class="xLarge-4 large-4 medium-4 sidenav-content">
         <div class="sidenav-header">
             <span><img src="assets/media/img/Desktop/Header/Logo/menu.svg"></span>
             <span id="close-sidenav-btn"><img class="close" src="assets/media/img/Desktop/Header/Icones/Close.svg"></span>
@@ -19,7 +19,7 @@
                 <div class="search-label">
                     <label for="site-search" class="titre-footer">Recherche</label>
                 </div>
-                <div>
+                <div class="flex">
                     <input class="titre-intro" type="search" id="sidenav-site-search" placeholder="Entrez un mot clé">
                     <span class="search-icon"><button></button></span>
                 </div>
