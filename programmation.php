@@ -21,7 +21,7 @@
                     <img src="assets/media/img/programmation.svg">
                 </div>
                 <div class="inline-block text-programmation">
-                    <p class="titre-intro">02 fevr. 2020 - 15h</p>
+                    <p class="titre-intro">28 mars 2020 - 10h</p>
                     <h3>Gouter Signature</h3>
                     <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
                         collaboration…</p>
@@ -33,7 +33,7 @@
                     <img src="assets/media/img/programmation.svg">
                 </div>
                 <div class="inline-block text-programmation">
-                    <p class="titre-intro">02 fevr. 2020 - 15h</p>
+                    <p class="titre-intro">10 avril 2020 - 16h</p>
                     <h3>Gouter Signature</h3>
                     <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
                         collaboration…</p>

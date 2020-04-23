@@ -1,8 +1,7 @@
 $().ready(() => {
     var events = [
-        {'Date': new Date(2020, 2, 7), 'Title': 'Doctor appointment at 3:25pm.'},
-        {'Date': new Date(2020, 2, 18), 'Title': 'New Garfield movie comes out!', 'Link': 'https://garfield.com'},
-        {'Date': new Date(2020, 2, 25), 'Title': '25 year anniversary', 'Link': 'https://www.google.com.au/#q=anniversary+gifts'},
+        {'Date': new Date(2020, 3, 28), 'Title': 'Gouter Signature'},
+        {'Date': new Date(2020, 4, 10), 'Title': 'Gouter Signature'}
     ];
     var settings = {
         Color: '',
