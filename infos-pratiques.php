@@ -12,7 +12,7 @@
 <main class="wrapper">
     <div>
         <h1 class="dot-cinnabar-after">Informations pratiques</h1>
-        <div>
+        <div id="horaire">
             <div class="flex flex-baseline">
                 <div class="xLarge-11 large-10 medium-10">
                     <h2>Horaires</h2>
@@ -103,7 +103,7 @@
                 </div>
             </div>
         </div>
-        <div>
+        <div id="Acces">
             <h2>Accès</h2>
             <div class="map-responsive">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2828.6879076696687!2d-0.5743516842482941!3d44.8482887823483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5527d81e072f85%3A0x21b210f33fe22835!2sCAPC%20Mus%C3%A9e%20d&#39;Art%20Contemporain%20de%20Bordeaux!5e0!3m2!1sfr!2sfr!4v1585407482035!5m2!1sfr!2sfr"
