@@ -31,6 +31,9 @@
 .color-nero {
   color: #262626; }
 
+.main-header {
+  margin-bottom: 10%; }
+
 .main-header .swiper-container {
   width: 100%;
   height: 100%;

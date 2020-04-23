@@ -12,7 +12,7 @@
 
 <main class="wrapper">
     <!-- Swiper -->
-    <div class="main-header swiper-container">
+    <div id="main-swiper-container" class="main-header swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <img src="assets/media/img/Home2.svg" style="width: inherit;"/><br/>
@@ -77,11 +77,11 @@
                 <h1 class="dot-dark-pastel-green-after">Programmation</h1>
             </div>
             <div class="xLarge-1">
-                <div class="swiper-button-prev"></div>
-                <div class="swiper-button-next"></div>
+                <div id="programmation-swiper-button-prev" class="swiper-button-prev"></div>
+                <div id="programmation-swiper-button-next" class="swiper-button-next"></div>
             </div>
         </div>
-        <div class="swiper-container">
+        <div id="programmation-swiper-container" class="swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="card">
