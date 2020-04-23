@@ -39,9 +39,13 @@
         </div>
         <div class="xLarge-3 large-3 medium-3 small-3"><!--RECHERCHE-->
             <form>
-                <label for="site-search" class="titre-footer">Recherche</label><br />
-                <input class="titre-intro" type="search" id="site-search" placeholder="Entrez un mot clé">
-                <button class="search"></button>
+                <div class="search-label">
+                    <label for="site-search" class="titre-footer">Recherche</label>
+                </div>
+                <div class="flex">
+                    <input class="titre-intro" type="search" id="site-search" placeholder="Entrez un mot clé">
+                    <span class="search-icon"><button></button></span>
+                </div>
             </form>
         </div>
     </div>

@@ -163,15 +163,17 @@
 
 .recherche {
   margin: 0 102px 80px 102px; }
-  .recherche .search-icon {
-    float: right; }
-  .recherche .search-icon button {
-    background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
-    background-repeat: no-repeat;
-    width: 30px;
-    height: 30px;
-    border: none;
-    background-color: #FFFFFF; }
+
+.search-icon {
+  float: right; }
+
+.search-icon button {
+  background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: #FFFFFF; }
 
 .reseaux-header {
   display: flex;

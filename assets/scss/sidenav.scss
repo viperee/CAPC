@@ -137,19 +137,19 @@
 }
 .recherche {
   margin: 0 102px 80px 102px;
+}
 
-  .search-icon{
-    float: right;
-  }
+.search-icon{
+  float: right;
+}
 
-  .search-icon button {
-    background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
-    background-repeat: no-repeat;
-    width: 30px;
-    height: 30px;
-    border: none;
-    background-color: $color-white;
-  }
+.search-icon button {
+  background-image: url(../media/img/Desktop/Footer/Icones/Recherche.svg);
+  background-repeat: no-repeat;
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: $color-white;
 }
 
 .reseaux-header {
