@@ -4,19 +4,19 @@
         <?php
         switch ($page) {
             case "index":
-                echo "<img src=\"assets/media/img/Desktop/Header/Logo/accueil.svg\">";
+                echo "<a href=\"index.php\"><img src=\"assets/media/img/Desktop/Header/Logo/accueil.svg\"></a>";
                 break;
             case "programmation":
-                echo "<img src=\"assets/media/img/Desktop/Header/Logo/programmation.svg\">";
+                echo "<a href=\"index.php\"><img src=\"assets/media/img/Desktop/Header/Logo/programmation.svg\"></a>";
                 break;
             case "collections":
-                echo "<img src=\"assets/media/img/Desktop/Header/Logo/collections.svg\">";
+                echo "<a href=\"index.php\"><img src=\"assets/media/img/Desktop/Header/Logo/collections.svg\"></a>";
                 break;
             case "musee":
-                echo "<img src=\"assets/media/img/Desktop/Header/Logo/musee.svg\">";
+                echo "<a href=\"index.php\"><img src=\"assets/media/img/Desktop/Header/Logo/musee.svg\"></a>";
                 break;
             case "infos-pratiques":
-                echo "<img src=\"assets/media/img/Desktop/Header/Logo/infos-pratiques.svg\">";
+                echo "<a href=\"index.php\"><img src=\"assets/media/img/Desktop/Header/Logo/infos-pratiques.svg\"></a>";
                 break;
         }
         ?>
