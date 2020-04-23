@@ -14,10 +14,10 @@
         <h1 class="dot-cinnabar-after">Informations pratiques</h1>
         <div>
             <div class="flex flex-baseline">
-                <div class="xLarge-11">
+                <div class="xLarge-11 large-10 medium-10">
                     <h2>Horaires</h2>
                 </div>
-                <div class="xLarge-1">
+                <div class="xLarge-1 large-2 medium-2">
                     <div class="swiper-button-prev"></div>
                     <div class="swiper-button-next"></div>
                 </div>
