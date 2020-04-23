@@ -73,23 +73,8 @@ h1 {
   font-size: 20px;
   color: #262626; }
 
-#ID1973___1984 {
-  position: absolute;
-  left: 41.334px;
-  top: 84.867px;
-  overflow: visible;
-  width: 109px;
-  white-space: nowrap;
-  --web-animation: fadein 0.3s ease-out;
-  --web-action-type: page;
-  --web-action-target: Infos_pratiques___15.html;
-  cursor: pointer;
-  text-align: left;
-  font-family: Benton Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 20px;
-  color: #262626; }
+.pastille-date span:hover {
+  cursor: pointer; }
 
 .grossi {
   rx: 97;

@@ -42,23 +42,8 @@ h1 {
     color: rgba(38,38,38,1);
 }
 
-#ID1973___1984 {
-    position: absolute;
-    left: 41.334px;
-    top: 84.867px;
-    overflow: visible;
-    width: 109px;
-    white-space: nowrap;
-    --web-animation: fadein 0.3s ease-out;
-    --web-action-type: page;
-    --web-action-target: Infos_pratiques___15.html;
+.pastille-date span:hover{
     cursor: pointer;
-    text-align: left;
-    font-family: Benton Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 20px;
-    color: rgba(38,38,38,1);
 }
 
 .grossi{
@@ -95,3 +80,4 @@ img.grille {
     margin-bottom: 6%;
     display: flex;
 }
+
