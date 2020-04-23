@@ -225,6 +225,13 @@
 .programmation-block .card:hover {
   border: 8px solid #00C64B; }
 
+.programmation-block .card {
+  width: 89%;
+  box-shadow: 0px 3px 6px #00000029;
+  margin-bottom: 1em;
+  z-index: 10;
+  background-color: white; }
+
 .arrow {
   background-image: url(../media/img/icons/fleche-orange.svg);
   background-repeat: no-repeat;
