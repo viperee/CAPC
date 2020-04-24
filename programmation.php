@@ -16,7 +16,7 @@
     </div>
     <div class="flex-space-between">
         <div class="flex-auto">
-            <div class="card-programmation">
+            <div id="programmation1" class="card-programmation">
                 <div class="inline-block img-programmation">
                     <img src="assets/media/img/programmation.svg">
                 </div>
@@ -28,12 +28,12 @@
                     <p class="titre-intro">Rencontre</p>
                 </div>
             </div>
-            <div class="card-programmation">
+            <div id="programmation2" class="card-programmation">
                 <div class="inline-block img-programmation">
                     <img src="assets/media/img/programmation.svg">
                 </div>
                 <div class="inline-block text-programmation">
-                    <p class="titre-intro">10 avril 2020 - 16h</p>
+                    <p class="titre-intro">10 mai 2020 - 16h</p>
                     <h3>Gouter Signature</h3>
                     <p>Irene de Santa Ana a répondu à l’invitation de la Boutique du CAPC et présente à cette occasion Je suis au pays avec ma mère, un livre né de sa
                         collaboration…</p>

@@ -138,8 +138,6 @@
             <img src="assets/media/img/niele_toroni.svg"/>
         </div>
     </div>
-
-
 </main>
 
 
